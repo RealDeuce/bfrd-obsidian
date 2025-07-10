@@ -1,5 +1,5 @@
-*7th-Circle Divine and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*7th-Circle Divine and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)  
 **Duration:** Instantaneous

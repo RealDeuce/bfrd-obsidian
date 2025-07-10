@@ -1,5 +1,5 @@
-*6th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*6th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a small piece of quartz)  
 **Duration:** Concentration, up to 10 minutes

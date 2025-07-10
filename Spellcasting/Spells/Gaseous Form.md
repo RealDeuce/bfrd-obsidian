@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a bit of gauze and a wisp of smoke)  
 **Duration:** Concentration, up to 1 hour

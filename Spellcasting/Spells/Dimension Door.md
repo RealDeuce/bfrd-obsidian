@@ -1,5 +1,5 @@
-*4th-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 500 feet  
 **Components:** V  
 **Duration:** Instantaneous

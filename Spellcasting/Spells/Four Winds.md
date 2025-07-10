@@ -1,7 +1,7 @@
-*7th-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 90 feet
-**Components:** V, S, M (an ivory war horn or set of pipes worth at least 500 gp)
+*7th-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 90 feet  
+**Components:** V, S, M (an ivory war horn or set of pipes worth at least 500 gp)  
 **Duration:** 1 minute
 
 You stir the air to create four whirlwinds on the ground at points you can see within range. Each whirlwind is a 5-foot- radius, 30-foot-tall cylinder of swirling air centered on that point. The whirlwinds last for the duration of the spell.

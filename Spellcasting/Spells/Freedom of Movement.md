@@ -1,5 +1,5 @@
-*4th-Circle Arcane and Divine (Abjuration)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane and Divine (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a leather strap, bound around the arm or a similar appendage)  
 **Duration:** 1 hour

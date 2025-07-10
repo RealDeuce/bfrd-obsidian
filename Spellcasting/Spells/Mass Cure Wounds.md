@@ -1,5 +1,5 @@
-*5th-Circle Divine and Primordial (Necromancy)*    
-**Casting Time:** 1 action    
+*5th-Circle Divine and Primordial (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet (30-foot-radius sphere)  
 **Components:** V, S  
 **Duration:** Instantaneous

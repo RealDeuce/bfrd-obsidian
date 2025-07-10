@@ -1,5 +1,5 @@
-*Arcane and Divine Cantrip (Evocation)*    
-**Casting Time:** 1 action    
+*Arcane and Divine Cantrip (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a firefly or phosphorescent moss)  
 **Duration:** 1 hour

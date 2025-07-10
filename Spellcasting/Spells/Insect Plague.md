@@ -1,7 +1,7 @@
-*5th-Circle Primordial (Conjuration)*
-**Casting Time:** 1 action
-**Range:** 300 feet
-**Components:** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
+*5th-Circle Primordial (Conjuration)*  
+**Casting Time:** 1 action  
+**Range:** 300 feet  
+**Components:** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)  
 **Duration:** Concentration, up to 10 minutes
 
 Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.

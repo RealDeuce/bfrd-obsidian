@@ -1,5 +1,5 @@
-*8th-Circle Arcane and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*8th-Circle Arcane and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour

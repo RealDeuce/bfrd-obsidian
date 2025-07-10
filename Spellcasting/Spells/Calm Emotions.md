@@ -1,7 +1,7 @@
-*2nd-Circle Divine (Enchantment)*
-**Casting Time:** 1 action
-**Range:** 60 feet
-**Components:** V, S
+*2nd-Circle Divine (Enchantment)*  
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
 You attempt to suppress strong emotions in a group of people. Each Humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a CHA save; a creature can choose to fail this save if it wishes. If a creature fails its save, choose one of the following effects.

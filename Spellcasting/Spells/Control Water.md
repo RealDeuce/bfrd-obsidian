@@ -1,5 +1,5 @@
-*4th-Circle Divine and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*4th-Circle Divine and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 300 feet  
 **Components:** V, S, M (a drop of water and a pinch of dust)  
 **Duration:** Concentration, up to 10 minutes

@@ -1,7 +1,7 @@
-*3rd-Circle Arcane Ritual (Evocation)*
-**Casting Time:** 10 minutes
-**Range:** Self (10-foot-radius dome)
-**Components:** V, S, M (a small crystal bead)
+*3rd-Circle Arcane Ritual (Evocation)*  
+**Casting Time:** 10 minutes  
+**Range:** Self (10-foot-radius dome)  
+**Components:** V, S, M (a small crystal bead)  
 **Duration:** 8 hours
 
 A 10-foot-radius, immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.

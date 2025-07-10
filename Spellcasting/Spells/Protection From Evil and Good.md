@@ -1,5 +1,5 @@
-*1st-Circle Divine and Wyrd (Abjuration)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Wyrd (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (holy water or powdered silver and iron, which the spell consumes)  
 **Duration:** Concentration, up to 10 minutes

@@ -1,5 +1,5 @@
-*7th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*7th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 150 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Wyrd (Transmutation)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Wyrd (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** 1 minute

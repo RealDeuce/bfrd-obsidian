@@ -1,5 +1,5 @@
-*2nd-Circle Arcane, Divine, Primordial, and Wyrd Ritual (Divination)*    
-**Casting Time:** 1 minute    
+*2nd-Circle Arcane, Divine, Primordial, and Wyrd Ritual (Divination)*  
+**Casting Time:** 1 minute  
 **Range:** Self (1 mile)  
 **Components:** V, S, M (a figurine of a bloodhound worth at least 25 gp, which the spell consumes)  
 **Duration:** Concentration, up to 10 minutes
@@ -11,6 +11,5 @@ This spell can’t locate a creature or object if it in is a different form, suc
 You can only have a single casting of *locate* active on yourself at one time. If you cast this spell a second time, the first casting immediately ends.
 
 ***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 4th-circle spell slots, you can use this spell to locate a specific creature or object that is familiar to you. In addition, the duration of this spell increases to concentration, up to 1 hour.
-
 
 #2nd-circle #arcane #concentration #divination #divine #primordial #ritual #somatic #verbal #wyrd

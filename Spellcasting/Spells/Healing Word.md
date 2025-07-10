@@ -1,7 +1,7 @@
-*1st-Circle Divine (Necromancy)*
-**Casting Time:** 1 bonus action
-**Range:** 60 feet
-**Components:** V
+*1st-Circle Divine (Necromancy)*  
+**Casting Time:** 1 bonus action  
+**Range:** 60 feet  
+**Components:** V  
 **Duration:** Instantaneous
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on Constructs or Undead.

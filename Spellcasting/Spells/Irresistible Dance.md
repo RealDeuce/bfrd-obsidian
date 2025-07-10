@@ -1,5 +1,5 @@
-*6th-Circle Arcane and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*6th-Circle Arcane and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute

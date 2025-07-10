@@ -1,5 +1,5 @@
-*Arcane and Primordial Cantrip (Evocation)*    
-**Casting Time:** 1 action    
+*Arcane and Primordial Cantrip (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Instantaneous

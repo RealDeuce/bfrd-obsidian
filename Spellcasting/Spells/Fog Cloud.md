@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Primordial (Conjuration)*    
-**Casting Time:** 1 action    
+*1st-Circle Arcane and Primordial (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour

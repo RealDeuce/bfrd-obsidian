@@ -1,4 +1,4 @@
-*4th-Circle Arcane, Divine, and Wyrd (Abjuration)*    
+*4th-Circle Arcane, Divine, and Wyrd (Abjuration)*  
 **Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S, M (an item distasteful to the target)  

@@ -1,7 +1,7 @@
-*Arcane Cantrip (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 10 feet
-**Components:** V, S
+*Arcane Cantrip (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 10 feet  
+**Components:** V, S  
 **Duration:** Up to 1 hour
 
 This spell is a minor trick that novice spellcasters use for practice. You create one of the following magical effects within range:

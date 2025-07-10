@@ -1,7 +1,7 @@
-*8th-Circle Arcane (Conjuration)*
-**Casting Time:** 1 action
-**Range:** 150 feet (20-foot-radius sphere)
-**Components:** V, S
+*8th-Circle Arcane (Conjuration)*  
+**Casting Time:** 1 action  
+**Range:** 150 feet (20-foot-radius sphere)  
+**Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
 A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.

@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Wyrd (Abjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Wyrd (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)  
 **Duration:** 8 hours

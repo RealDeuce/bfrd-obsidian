@@ -1,5 +1,5 @@
-*6th-Circle Arcane and Wyrd (Transmutation)*    
-**Casting Time:** 1 action    
+*6th-Circle Arcane and Wyrd (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S, M (a lodestone and pinch of dust)  
 **Duration:** Instantaneous

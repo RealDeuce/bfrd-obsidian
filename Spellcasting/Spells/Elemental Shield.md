@@ -1,7 +1,7 @@
-*4th-Circle Arcane (Evocation)*
-**Casting Time:** 1 action
-**Range:** Self
-**Components:** V, S, M (a bit of phosphorus or a firefly)
+*4th-Circle Arcane (Evocation)*  
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** V, S, M (a bit of phosphorus or a firefly)  
 **Duration:** 10 minutes
 
 Elemental energy wreathes your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it. When the shield first appears, you decide whether it is made of acid, cold, fire, lightning, or thunder energy.

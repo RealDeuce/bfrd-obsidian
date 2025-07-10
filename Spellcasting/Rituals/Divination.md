@@ -1,7 +1,7 @@
-*4th-Circle Divine Ritual (Divination)*
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (incense or a sacrificial offering appropriate for your religion worth 25 gp, which the spell consumes)
+*4th-Circle Divine Ritual (Divination)*  
+**Casting Time:** 10 minutes  
+**Range:** Self  
+**Components:** V, S, M (incense or a sacrificial offering appropriate for your religion worth 25 gp, which the spell consumes)  
 **Duration:** 1 minute
 
 Your magic and an offering put you in contact with your deity or divine proxy. When you cast this spell, you can use it in one of the following ways:

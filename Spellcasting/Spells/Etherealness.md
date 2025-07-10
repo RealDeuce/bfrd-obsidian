@@ -1,5 +1,5 @@
-*7th-Circle Arcane and Wyrd (Transmutation)*    
-**Casting Time:** 1 action    
+*7th-Circle Arcane and Wyrd (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** 8 hours

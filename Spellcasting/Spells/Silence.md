@@ -1,5 +1,5 @@
-*2nd-Circle Divine and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*2nd-Circle Divine and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes

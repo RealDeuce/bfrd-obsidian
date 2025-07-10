@@ -1,7 +1,7 @@
-*2nd-Circle Primordial Ritual (Enchantment)*
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a morsel of food)
+*2nd-Circle Primordial Ritual (Enchantment)*  
+**Casting Time:** 1 minute  
+**Range:** 30 feet  
+**Components:** V, S, M (a morsel of food)  
 **Duration:** 24 hours
 
 Choose a Tiny Beast you can see within range, such as a squirrel, blue jay, or bat. Specify a location, which you must have visited, and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” Then speak a message of up to twenty-five words. The Beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 hours for a flying messenger or 25 miles for other animals.

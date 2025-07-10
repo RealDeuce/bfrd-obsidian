@@ -1,7 +1,7 @@
-*8th-Circle Arcane (Enchantment)*
-**Casting Time:** 1 action
-**Range:** 150 feet
-**Components:** V, M (a handful of clay, crystal, glass, or mineral spheres)
+*8th-Circle Arcane (Enchantment)*  
+**Casting Time:** 1 action  
+**Range:** 150 feet  
+**Components:** V, M (a handful of clay, crystal, glass, or mineral spheres)  
 **Duration:** Instantaneous
 
 You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an INT save.

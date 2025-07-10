@@ -1,7 +1,7 @@
-*2nd-Circle Divine and Primordial Ritual (Conjuration)*
-**Casting Time:** 10 minutes
-**Range:** 30 feet
-**Components:** V, S
+*2nd-Circle Divine and Primordial Ritual (Conjuration)*  
+**Casting Time:** 10 minutes  
+**Range:** 30 feet  
+**Components:** V, S  
 **Duration:** Instantaneous
 
 You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes a form that you choose: **[[Horse, War|warhorse]]**, **[[Pony|pony]]**, **[[Camel|camel]]**, **[[Elk|elk]]**, or **[[Mastiff|mastiff]]**. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of its chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of its normal type. However, if the form has an INT of 5 (−3) or lower, your steed’s INT becomes 6 (−2), and it gains the ability to understand one language of your choice that you speak.

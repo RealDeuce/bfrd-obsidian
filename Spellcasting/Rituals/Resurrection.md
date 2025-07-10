@@ -1,7 +1,7 @@
-*7th-Circle Divine Ritual (Necromancy)*
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
+*7th-Circle Divine Ritual (Necromancy)*  
+**Casting Time:** 1 hour  
+**Range:** Touch  
+**Components:** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 You touch a dead creature that has been dead for no more than a century, that didn’t die of old age, and that isn’t Undead. If its soul is free and willing, the target returns to life with all its hit points.

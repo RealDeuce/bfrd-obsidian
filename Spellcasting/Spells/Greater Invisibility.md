@@ -1,5 +1,5 @@
-*4th-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute

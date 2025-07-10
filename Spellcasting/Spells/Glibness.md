@@ -1,5 +1,5 @@
-*8th-Circle Arcane and Divine (Transmutation)*    
-**Casting Time:** 1 action    
+*8th-Circle Arcane and Divine (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 hour

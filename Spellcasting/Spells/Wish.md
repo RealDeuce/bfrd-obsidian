@@ -1,5 +1,5 @@
-*9th-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*9th-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous

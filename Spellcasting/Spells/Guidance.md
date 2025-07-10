@@ -1,5 +1,5 @@
-*Divine and Wyrd Cantrip (Divination)*    
-**Casting Time:** 1 action    
+*Divine and Wyrd Cantrip (Divination)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute

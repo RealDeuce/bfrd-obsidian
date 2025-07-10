@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*1st-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** 1 hour

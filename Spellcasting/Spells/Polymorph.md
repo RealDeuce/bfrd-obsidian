@@ -1,5 +1,5 @@
-*4th-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S, M (a caterpillar cocoon)  
 **Duration:** Concentration, up to 1 hour

@@ -1,7 +1,7 @@
-*5th-Circle Divine Ritual (Abjuration)*
-**Casting Time:** 24 hours
-**Range:** Touch
-**Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
+*5th-Circle Divine Ritual (Abjuration)*  
+**Casting Time:** 24 hours  
+**Range:** Touch  
+**Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)  
 **Duration:** Until dispelled
 
 You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of a *hallow* spell. The affected area is subject to the following effects.

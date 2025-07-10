@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (an eyelash encased in tree sap)  
 **Duration:** Concentration, up to 1 hour

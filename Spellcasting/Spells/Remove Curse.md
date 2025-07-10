@@ -1,5 +1,5 @@
-*3rd-Circle Divine and Wyrd (Abjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Divine and Wyrd (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Instantaneous

@@ -1,7 +1,7 @@
-*1st-Circle Arcane (Illusion)*
-**Casting Time:** 1 action
-**Range:** Self (15-foot cone)
-**Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
+*1st-Circle Arcane (Illusion)*  
+**Casting Time:** 1 action  
+**Range:** Self (15-foot cone)  
+**Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)  
 **Duration:** 1 round
 
 A dazzling array of flashing, colored light springs from your hand. Roll 8d10 and total the result. This total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).

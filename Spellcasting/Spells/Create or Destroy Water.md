@@ -1,7 +1,7 @@
-*1st-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 30 feet
-**Components:** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
+*1st-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)  
 **Duration:** Instantaneous
 
 When you cast this spell, choose which of the following effects to create.

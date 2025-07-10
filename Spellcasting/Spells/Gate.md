@@ -1,5 +1,5 @@
-*9th-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*9th-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S, M (a diamond worth at least 5,000 gp)  
 **Duration:** Concentration, up to 1 hour

@@ -1,7 +1,7 @@
-*3rd-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** Self (30-foot radius)
-**Components:** V, S
+*3rd-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** Self (30-foot radius)  
+**Components:** V, S  
 **Duration:** 10 minutes
 
 You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.

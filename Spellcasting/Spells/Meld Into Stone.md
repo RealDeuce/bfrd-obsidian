@@ -1,7 +1,7 @@
-*3rd-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** Touch
-**Components:** V, S
+*3rd-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** Touch  
+**Components:** V, S  
 **Duration:** 8 hours
 
 You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with it for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.

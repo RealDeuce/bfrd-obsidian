@@ -1,5 +1,5 @@
-*8th-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*8th-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** S  
 **Duration:** 1 hour

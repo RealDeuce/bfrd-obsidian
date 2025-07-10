@@ -1,5 +1,5 @@
-*6th-Circle Arcane and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*6th-Circle Arcane and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil)  
 **Duration:** 24 hours

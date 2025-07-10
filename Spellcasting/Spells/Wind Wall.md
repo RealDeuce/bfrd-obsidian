@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a tiny fan and a feather)  
 **Duration:** Concentration, up to 1 minute

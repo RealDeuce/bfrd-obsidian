@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 90 feet  
 **Components:** V, S, M (a rotten egg or several skunk cabbage leaves)  
 **Duration:** Concentration, up to 1 minute

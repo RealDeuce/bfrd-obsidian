@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Divine (Abjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Divine (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

@@ -1,5 +1,5 @@
-*4th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 300 feet  
 **Components:** S, M (a pinch of dust and a few drops of water)  
 **Duration:** Instantaneous

@@ -1,7 +1,7 @@
-*4th-Circle Primordial (Conjuration)*
-**Casting Time:** 1 action
-**Range:** 60 feet
-**Components:** V, S, M (a holly berry for each creature summoned)
+*4th-Circle Primordial (Conjuration)*  
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (a holly berry for each creature summoned)  
 **Duration:** Concentration, up to 1 hour
 
 You summon Fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:

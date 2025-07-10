@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S, M (a piece of iron and a flame)  
 **Duration:** Concentration, up to 1 minute

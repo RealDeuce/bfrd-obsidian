@@ -1,7 +1,7 @@
-*1st-Circle Arcane (Necromancy)*
-**Casting Time:** 1 action
-**Range:** Self
-**Components:** V, S, M (a small amount of alcohol or distilled spirits)
+*1st-Circle Arcane (Necromancy)*  
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** V, S, M (a small amount of alcohol or distilled spirits)  
 **Duration:** 1 hour
 
 You bolster yourself with a touch of the same necromantic powers used to preserve the dead. You gain 1d4 + 4 temporary hit points for the duration.

@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a drop of bitumen and a spider)  
 **Duration:** Concentration, up to 1 hour

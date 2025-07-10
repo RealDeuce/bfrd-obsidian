@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)  
 **Duration:** Concentration, up to 1 minute

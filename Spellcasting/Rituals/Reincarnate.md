@@ -1,7 +1,7 @@
-*5th-Circle Primordial Ritual (Transmutation)*
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
+*5th-Circle Primordial Ritual (Transmutation)*  
+**Casting Time:** 1 hour  
+**Range:** Touch  
+**Components:** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 You touch a dead Humanoid or a piece of a dead Humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target’s soul isn’t free or willing to do so, the spell fails.

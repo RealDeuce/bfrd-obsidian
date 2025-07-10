@@ -1,7 +1,7 @@
-*9th-Circle Arcane and Wyrd Ritual (Abjuration)*
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target and a special component that varies according to the version of the spell you choose worth at least 500 gp per hit die of the target)
+*9th-Circle Arcane and Wyrd Ritual (Abjuration)*  
+**Casting Time:** 1 minute  
+**Range:** 30 feet  
+**Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target and a special component that varies according to the version of the spell you choose worth at least 500 gp per hit die of the target)  
 **Duration:** Until dispelled
 
 You create a magical restraint to hold a creature that you can see within range. The target must succeed on a WIS save or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn’t need to breathe, eat, or drink, and it doesn’t age. Divination spells can’t locate or perceive the target.

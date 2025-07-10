@@ -1,7 +1,7 @@
-*7th-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** Self
-**Components:** V, S, M (flesh from a Fiend, a feather from a Celestial, or a scale from a Dragon worth 50 gp)
+*7th-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** V, S, M (flesh from a Fiend, a feather from a Celestial, or a scale from a Dragon worth 50 gp)  
 **Duration:** 1 minute
 
 You transform your body to grant yourself benefits of monstrous forms. When you cast this spell, choose one of the listed transformations that your form first assumes. While the spell is active, you can use a bonus action to exchange your current transformation for a different option you haven’t already used during this casting of the spell. Once you assume your third form, you can’t shift into a different listed form for the duration, but you can use a bonus action to end the spell early and assume your original form. The spell also ends early if you are incapacitated or if you die.

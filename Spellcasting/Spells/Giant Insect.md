@@ -1,7 +1,7 @@
-*4th-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 30 feet
-**Components:** V, S
+*4th-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
 You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a **[[../../Monsters/Animals/Insect, Giant Centipede|giant centipede]]**, a spider becomes a **[[../../Monsters/Animals/Spider, Giant|giant spider]]**, a wasp becomes a **[[../../Monsters/Animals/Insect, Giant Wasp|giant wasp]]**, and a scorpion becomes a **[[../../Monsters/Animals/Insect, Giant Scorpion|giant scorpion]]**.

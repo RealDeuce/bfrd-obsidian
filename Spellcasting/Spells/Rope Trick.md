@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a length of rope up to 60 feet long)  
 **Duration:** 1 hour

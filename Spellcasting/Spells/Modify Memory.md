@@ -1,7 +1,7 @@
-*5th-Circle Arcane (Enchantment)*
-**Casting Time:** 1 action
-**Range:** 30 feet
-**Components:** V, S
+*5th-Circle Arcane (Enchantment)*  
+**Casting Time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
 One creature that you can see must make a WIS save. If you are fighting the creature, it has advantage on the save. On a failed save, the target becomes [[../../Conditions/Charmed|charmed]] by you for the duration. The charmed target is [[../../Conditions/Incapacitated|incapacitated]] and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target’s memories are modified.

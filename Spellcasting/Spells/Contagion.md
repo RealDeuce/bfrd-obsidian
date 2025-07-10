@@ -1,5 +1,5 @@
-*5th-Circle Divine and Primordial (Necromancy)*    
-**Casting Time:** 1 action    
+*5th-Circle Divine and Primordial (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** 7 days

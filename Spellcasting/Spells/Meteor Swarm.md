@@ -1,5 +1,5 @@
-*9th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*9th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 1 mile (40-foot-radius sphere)  
 **Components:** V, S  
 **Duration:** Instantaneous

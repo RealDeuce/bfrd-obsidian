@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (a short reed or a piece of straw)  
 **Duration:** 24 hours

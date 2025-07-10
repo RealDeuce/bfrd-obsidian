@@ -1,7 +1,7 @@
-*2nd-Circle Arcane Ritual (Illusion)*
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (a small square of silk and burning incense worth at least 10 gp, which the spell consumes)
+*2nd-Circle Arcane Ritual (Illusion)*  
+**Casting Time:** 1 minute  
+**Range:** Touch  
+**Components:** V, S, M (a small square of silk and burning incense worth at least 10 gp, which the spell consumes)  
 **Duration:** 24 hours
 
 You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.

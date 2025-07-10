@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Wyrd (Transmutation)*    
-**Casting Time:** 1 bonus action    
+*2nd-Circle Arcane and Wyrd (Transmutation)*  
+**Casting Time:** 1 bonus action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour

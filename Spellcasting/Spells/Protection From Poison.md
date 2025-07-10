@@ -1,5 +1,5 @@
-*2nd-Circle Divine and Primordial (Abjuration)*    
-**Casting Time:** 1 action    
+*2nd-Circle Divine and Primordial (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** 1 hour

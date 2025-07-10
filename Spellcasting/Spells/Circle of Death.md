@@ -1,5 +1,5 @@
-*6th-Circle Arcane, Divine, and Wyrd (Necromancy)*    
-**Casting Time:** 1 action    
+*6th-Circle Arcane, Divine, and Wyrd (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** 150 feet  
 **Components:** V, S, M (the powder of a crushed black pearl)  
 **Duration:** Instantaneous

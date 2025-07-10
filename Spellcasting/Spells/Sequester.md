@@ -1,5 +1,5 @@
-*7th-Circle Arcane and Divine (Transmutation)*    
-**Casting Time:** 1 action    
+*7th-Circle Arcane and Divine (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a powder composed of gemstone dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Until dispelled

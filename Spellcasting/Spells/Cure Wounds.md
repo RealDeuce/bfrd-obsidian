@@ -1,5 +1,5 @@
-*1st-Circle Divine and Primordial (Necromancy)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Primordial (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Instantaneous

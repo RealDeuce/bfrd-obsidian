@@ -1,5 +1,5 @@
-*2nd-Circle Arcane, Divine, and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane, Divine, and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil)  
 **Duration:** Concentration, up to 8 hours
@@ -11,7 +11,5 @@ The target must make a WIS save. On a failed save, it pursues the course of acti
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t performed.
 
 If you or any of your companions damage the target, the spell ends.
-
-
 
 #2nd-circle #action #arcane #concentration #divine #enchantment #verbal #wyrd

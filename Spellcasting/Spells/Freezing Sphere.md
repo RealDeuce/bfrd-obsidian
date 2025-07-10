@@ -1,7 +1,7 @@
-*6th-Circle Arcane (Evocation)*
-**Casting Time:** 1 action
-**Range:** 300 feet (60-foot-radius sphere)
-**Components:** V, S, M (a small crystal sphere)
+*6th-Circle Arcane (Evocation)*  
+**Casting Time:** 1 action  
+**Range:** 300 feet (60-foot-radius sphere)  
+**Components:** V, S, M (a small crystal sphere)  
 **Duration:** Instantaneous
 
 A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a CON save. A creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one.

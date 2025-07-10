@@ -1,7 +1,7 @@
-*5th-Circle Primordial Ritual (Divination)*
-**Casting Time:** 1 minute
-**Range:** Self
-**Components:** V, S, M (a forked stick, a bowl of purified water, and a polished stone or bone of an animal native to where you are)
+*5th-Circle Primordial Ritual (Divination)*  
+**Casting Time:** 1 minute  
+**Range:** Self  
+**Components:** V, S, M (a forked stick, a bowl of purified water, and a polished stone or bone of an animal native to where you are)  
 **Duration:** Instantaneous
 
 You must be outdoors to cast this spell. When you do so, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn’t function where nature has been replaced by construction, such as in dungeons and towns.

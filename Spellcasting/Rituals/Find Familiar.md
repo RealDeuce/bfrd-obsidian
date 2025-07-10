@@ -1,7 +1,7 @@
-*1st-Circle Wyrd Ritual (Conjuration)*
-**Casting Time:** 1 hour
-**Range:** 10 feet
-**Components:** V, S, M (charcoal, incense, and herbs collectively worth 10 gp, which the spell consumes)
+*1st-Circle Wyrd Ritual (Conjuration)*  
+**Casting Time:** 1 hour  
+**Range:** 10 feet  
+**Components:** V, S, M (charcoal, incense, and herbs collectively worth 10 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 You gain the service of a familiar, a spirit that takes one of the following Beast forms you choose: **[[../../Monsters/Animals/Bat|bat]]**, **[[../../Monsters/Animals/Cat|cat]]**, **[[../../Monsters/Animals/Crab|crab]]**, **[[../../Monsters/Animals/Frog|frog]]** (**toad**), **[[../../Monsters/Animals/Hawk|hawk]]**, **[[../../Monsters/Animals/Lizard|lizard]]**, **[[../../Monsters/Animals/Octopus|octopus]]**, **[[../../Monsters/Animals/Owl|owl]]**, **[[../../Monsters/Animals/Snake, Poisonous|poisonous snake]]**, **fish** (**[[../../Monsters/Animals/Quipper|quipper]]**), **[[../../Monsters/Animals/Rat|rat]]**, **[[../../Monsters/Animals/Raven|raven]]**, **[[../../Monsters/Animals/Seahorse|seahorse]]**, **[[../../Monsters/Animals/Spider|spider]]**, or **[[../../Monsters/Animals/Weasel|weasel]]**. Upon completion of the ritual, your familiar appears in an unoccupied space within 10 feet of you. The familiar has the statistics of the chosen form, though it is considered a Celestial, Fey, or Fiend (your choice) rather than a Beast for any relevant spells or effects.

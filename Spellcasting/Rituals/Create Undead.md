@@ -1,7 +1,7 @@
-*6th-Circle Arcane and Divine Ritual (Necromancy)*
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, S, M (one pot filled with grave dirt, one pot filled with brackish water, and one 150 gp black onyx stone for each corpse, which the spell consumes)
+*6th-Circle Arcane and Divine Ritual (Necromancy)*  
+**Casting Time:** 1 minute  
+**Range:** 10 feet  
+**Components:** V, S, M (one pot filled with grave dirt, one pot filled with brackish water, and one 150 gp black onyx stone for each corpse, which the spell consumes)  
 **Duration:** Instantaneous
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each corpse becomes a **[[../../Monsters/Monsters/Ghoul|ghoul]]** under your control (the GM has statistics for these creatures).

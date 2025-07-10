@@ -1,5 +1,5 @@
-*3rd-Circle Divine and Wyrd (Necromancy)*    
-**Casting Time:** 1 action    
+*3rd-Circle Divine and Wyrd (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)  
 **Duration:** Instantaneous

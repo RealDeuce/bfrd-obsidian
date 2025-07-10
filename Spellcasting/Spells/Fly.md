@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a wing feather from any bird)  
 **Duration:** Concentration, up to 10 minutes

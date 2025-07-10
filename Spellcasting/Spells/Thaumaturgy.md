@@ -1,5 +1,5 @@
-*Divine and Wyrd Cantrip (Transmutation)*    
-**Casting Time:** 1 action    
+*Divine and Wyrd Cantrip (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V  
 **Duration:** Up to 1 minute

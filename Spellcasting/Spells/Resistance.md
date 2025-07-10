@@ -1,5 +1,5 @@
-*Divine and Primordial Cantrip (Abjuration)*    
-**Casting Time:** 1 action    
+*Divine and Primordial Cantrip (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a miniature cloak)  
 **Duration:** Concentration, up to 1 minute

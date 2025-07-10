@@ -1,7 +1,7 @@
-*1st-Circle Arcane (Evocation)*
-**Casting Time:** 1 action
-**Range:** 120 feet
-**Components:** V, S
+*1st-Circle Arcane (Evocation)*  
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
 **Duration:** Instantaneous
 
 You create three darts that each hit a creature of your choice you can see within range. You can choose whether the darts hit the same creature or different creatures. Each dart deals 1d4 + 1 force damage to its target.

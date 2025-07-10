@@ -1,5 +1,5 @@
-*Arcane and Wyrd Cantrip (Illusion)*    
-**Casting Time:** 1 action    
+*Arcane and Wyrd Cantrip (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** S, M (a bit of fleece)  
 **Duration:** 1 minute

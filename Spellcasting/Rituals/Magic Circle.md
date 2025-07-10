@@ -1,5 +1,5 @@
-*3rd-Circle Arcane, Divine, and Wyrd Ritual (Abjuration)*    
-**Casting Time:** 1 minute    
+*3rd-Circle Arcane, Divine, and Wyrd Ritual (Abjuration)*  
+**Casting Time:** 1 minute  
 **Range:** 10 feet  
 **Components:** V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)  
 **Duration:** 1 hour
@@ -14,6 +14,5 @@ Choose one or more of the following types of creatures: Celestials, Elementals, 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
 ***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 4th-circle spell slots, the duration increases by 1 hour for each slot you have access to above 3rd.
-
 
 #3rd-circle #abjuration #arcane #divine #ritual #somatic #verbal #wyrd

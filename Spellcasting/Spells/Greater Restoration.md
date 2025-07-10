@@ -1,5 +1,5 @@
-*5th-Circle Divine and Primordial (Abjuration)*    
-**Casting Time:** 1 action    
+*5th-Circle Divine and Primordial (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)  
 **Duration:** Instantaneous

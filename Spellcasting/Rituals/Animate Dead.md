@@ -1,7 +1,7 @@
-*3rd-Circle Arcane and Divine Ritual (Necromancy)*
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, S, M (a bloodstone worth at least 10 gp, which the spell consumes)
+*3rd-Circle Arcane and Divine Ritual (Necromancy)*  
+**Casting Time:** 1 minute  
+**Range:** 10 feet  
+**Components:** V, S, M (a bloodstone worth at least 10 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 This spell creates an Undead servant. Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an Undead creature. The target becomes a **[[../../Monsters/Monsters/Skeleton|skeleton]]** if you chose bones or a **[[../../Monsters/Monsters/Zombie|zombie]]** if you chose a corpse.

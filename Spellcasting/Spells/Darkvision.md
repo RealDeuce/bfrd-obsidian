@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a pinch of dried carrot or an agate)  
 **Duration:** 8 hours

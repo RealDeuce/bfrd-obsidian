@@ -1,7 +1,7 @@
-*3rd-Circle Wyrd Ritual (Illusion)*
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (an apple made of gold worth 5 gp)
+*3rd-Circle Wyrd Ritual (Illusion)*  
+**Casting Time:** 1 minute  
+**Range:** 30 feet  
+**Components:** V, S, M (an apple made of gold worth 5 gp)  
 **Duration:** 1 hour
 
 A Large, quasi-real, horse-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature’s appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is ever more than 10 feet away from the steed.

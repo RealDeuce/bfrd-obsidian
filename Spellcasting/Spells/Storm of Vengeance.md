@@ -1,5 +1,5 @@
-*9th-Circle Divine and Primordial (Conjuration)*    
-**Casting Time:** 1 action    
+*9th-Circle Divine and Primordial (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** Sight  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute

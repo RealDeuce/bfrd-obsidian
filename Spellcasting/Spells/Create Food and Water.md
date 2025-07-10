@@ -1,5 +1,5 @@
-*3rd-Circle Divine and Primordial (Conjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Divine and Primordial (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

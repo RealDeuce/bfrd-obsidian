@@ -1,5 +1,5 @@
-*8th-Circle Arcane, Divine, Primordial, and Wyrd Ritual (Enchantment)*    
-**Casting Time:** 1 hour    
+*8th-Circle Arcane, Divine, Primordial, and Wyrd Ritual (Enchantment)*  
+**Casting Time:** 1 hour  
 **Range:** 60 feet  
 **Components:** V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)  
 **Duration:** 10 days

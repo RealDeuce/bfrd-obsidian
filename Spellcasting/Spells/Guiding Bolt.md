@@ -1,5 +1,5 @@
-*1st-Circle Divine and Wyrd (Evocation)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Wyrd (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** 1 round

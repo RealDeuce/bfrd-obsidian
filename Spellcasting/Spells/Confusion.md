@@ -1,5 +1,5 @@
-*4th-Circle Arcane, Divine, and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane, Divine, and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 90 feet  
 **Components:** V, S, M (three nut shells)  
 **Duration:** Concentration, up to 1 minute
@@ -18,7 +18,5 @@ At the end of each of its turns, an affected target can make a WIS save, ending 
 | 2–6  | The creature doesn’t move or take actions this turn.                                                                                                                                             |
 | 7–8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within reach, the creature does nothing this turn.          |
 | 9–10 | The creature can act and move normally. At the end of each of its turns, an affected creature can make a WIS save, ending the effect on itself on a success.                                     |
-
-
 
 #4th-circle #action #arcane #concentration #divine #enchantment #somatic #verbal #wyrd

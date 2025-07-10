@@ -1,7 +1,7 @@
-*1st-Circle Arcane and Wyrd Ritual (Illusion)*
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
+*1st-Circle Arcane and Wyrd Ritual (Illusion)*  
+**Casting Time:** 1 minute  
+**Range:** Touch  
+**Components:** V, S, M (a lead-based ink worth at least 10 gp, which the spell consumes)  
 **Duration:** 10 days
 
 You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.

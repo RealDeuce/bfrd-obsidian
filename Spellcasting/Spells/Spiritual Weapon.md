@@ -1,5 +1,5 @@
-*2nd-Circle Divine and Wyrd (Evocation)*    
-**Casting Time:** 1 bonus action    
+*2nd-Circle Divine and Wyrd (Evocation)*  
+**Casting Time:** 1 bonus action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

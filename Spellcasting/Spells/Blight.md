@@ -1,5 +1,5 @@
-*4th-Circle Divine and Primordial (Necromancy)*    
-**Casting Time:** 1 action    
+*4th-Circle Divine and Primordial (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

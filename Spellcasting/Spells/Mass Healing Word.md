@@ -1,7 +1,7 @@
-*3rd-Circle Divine (Necromancy)*
-**Casting Time:** 1 bonus action
-**Range:** 60 feet
-**Components:** V
+*3rd-Circle Divine (Necromancy)*  
+**Casting Time:** 1 bonus action  
+**Range:** 60 feet  
+**Components:** V  
 **Duration:** Instantaneous
 
 As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on Constructs or Undead.

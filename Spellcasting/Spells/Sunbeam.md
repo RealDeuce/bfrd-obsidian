@@ -1,5 +1,5 @@
-*6th-Circle Divine and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*6th-Circle Divine and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** Self (60-foot line)  
 **Components:** V, S, M (a magnifying glass)  
 **Duration:** Concentration, up to 1 minute

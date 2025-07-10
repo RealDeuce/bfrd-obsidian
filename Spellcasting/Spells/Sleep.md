@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*1st-Circle Arcane and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 90 feet  
 **Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)  
 **Duration:** 1 minute

@@ -1,5 +1,5 @@
-*5th-Circle Divine and Wyrd (Abjuration)*    
-**Casting Time:** 1 action    
+*5th-Circle Divine and Wyrd (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S, M (holy water or powdered silver and iron)  
 **Duration:** Concentration, up to 1 minute

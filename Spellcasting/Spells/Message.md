@@ -1,5 +1,5 @@
-*Arcane and Wyrd Cantrip (Enchantment)*    
-**Casting Time:** 1 action    
+*Arcane and Wyrd Cantrip (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a short piece of copper wire)  
 **Duration:** 1 round

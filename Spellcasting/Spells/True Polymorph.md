@@ -1,5 +1,5 @@
-*9th-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*9th-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)  
 **Duration:** Concentration, up to 1 hour

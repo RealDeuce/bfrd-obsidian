@@ -1,5 +1,5 @@
-*5th-Circle Arcane and Wyrd (Divination)*    
-**Casting Time:** 1 action    
+*5th-Circle Arcane and Wyrd (Divination)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (pieces of eggshell from two different kinds of creatures)  
 **Duration:** 1 hour

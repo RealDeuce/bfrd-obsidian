@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 bonus action    
+*1st-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 bonus action  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute

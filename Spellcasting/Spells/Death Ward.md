@@ -1,7 +1,7 @@
-*4th-Circle Divine (Abjuration)*
-**Casting Time:** 1 action
-**Range:** Touch
-**Components:** V, S
+*4th-Circle Divine (Abjuration)*  
+**Casting Time:** 1 action  
+**Range:** Touch  
+**Components:** V, S  
 **Duration:** 8 hours
 
 The first time the target of this spell would drop to 0 HP as a result of taking damage, the target instead drops to 1 HP, and the spell ends.

@@ -1,7 +1,7 @@
-*6th-Circle Divine (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 60 feet
-**Components:** V, S, M (a pinch of lime, water, and earth)
+*6th-Circle Divine (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (a pinch of lime, water, and earth)  
 **Duration:** Concentration, up to 1 minute
 
 You attempt to turn one creature that you can see within range into stone. If the target’s body is made of flesh, the creature must make a CON save. On a failed save, it is [[../../Conditions/Restrained|restrained]] as its flesh begins to harden. On a successful save, the creature isn’t affected.

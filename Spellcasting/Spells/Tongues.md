@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Divine (Divination)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Divine (Divination)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a small clay model of a ziggurat)  
 **Duration:** 1 hour

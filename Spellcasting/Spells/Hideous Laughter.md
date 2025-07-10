@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*1st-Circle Arcane and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (tiny tarts and a feather that is waved in the air)  
 **Duration:** Concentration, up to 1 minute

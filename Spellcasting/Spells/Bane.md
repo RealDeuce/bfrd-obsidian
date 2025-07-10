@@ -1,5 +1,5 @@
-*1st-Circle Divine and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (a drop of blood)  
 **Duration:** Concentration, up to 1 minute

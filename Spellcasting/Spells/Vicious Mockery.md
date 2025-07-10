@@ -1,5 +1,5 @@
-*Arcane and Wyrd Cantrip (Enchantment)*    
-**Casting Time:** 1 action    
+*Arcane and Wyrd Cantrip (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V  
 **Duration:** Instantaneous

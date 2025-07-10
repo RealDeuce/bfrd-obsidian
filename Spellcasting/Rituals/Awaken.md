@@ -1,7 +1,7 @@
-*5th-Circle Primordial Ritual (Transmutation)*
-**Casting Time:** 8 hours
-**Range:** Touch
-**Components:** V, S, M (an agate worth at least 1,000 gp, which the spell consumes)
+*5th-Circle Primordial Ritual (Transmutation)*  
+**Casting Time:** 8 hours  
+**Range:** Touch  
+**Components:** V, S, M (an agate worth at least 1,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller Beast or Plant. The target must have no INT or an INT of 3 (−4) or lower to be affected by this spell.

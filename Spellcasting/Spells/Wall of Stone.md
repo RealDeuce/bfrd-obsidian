@@ -1,5 +1,5 @@
-*5th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*5th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a small block of granite)  
 **Duration:** Concentration, up to 10 minutes

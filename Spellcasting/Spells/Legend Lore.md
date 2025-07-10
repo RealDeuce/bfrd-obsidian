@@ -1,5 +1,5 @@
-*5th-Circle Arcane and Divine (Divination)*    
-**Casting Time:** 1 action    
+*5th-Circle Arcane and Divine (Divination)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S, M (incense worth at least 250 gp, which the spell consumes)  
 **Duration:** Instantaneous

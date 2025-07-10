@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** Self (30-foot cone)  
 **Components:** V, S, M (a white feather or the heart of a hen)  
 **Duration:** Concentration, up to 1 minute

@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*1st-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a pinch of dirt)  
 **Duration:** 1 hour

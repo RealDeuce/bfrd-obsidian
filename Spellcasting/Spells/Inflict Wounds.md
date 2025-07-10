@@ -1,5 +1,5 @@
-*1st-Circle Divine and Wyrd (Necromancy)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Wyrd (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Instantaneous

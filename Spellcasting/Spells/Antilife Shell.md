@@ -1,5 +1,5 @@
-*5th-Circle Divine and Primordial (Abjuration)*    
-**Casting Time:** 1 action    
+*5th-Circle Divine and Primordial (Abjuration)*  
+**Casting Time:** 1 action  
 **Range:** Self (10-foot radius)  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour

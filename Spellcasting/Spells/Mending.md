@@ -1,5 +1,5 @@
-*Arcane and Divine Cantrip (Transmutation)*    
-**Casting Time:** 1 action    
+*Arcane and Divine Cantrip (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (two lodestones)  
 **Duration:** Instantaneous

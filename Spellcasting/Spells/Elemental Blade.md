@@ -1,7 +1,7 @@
-*2nd-Circle Arcane (Evocation)*
-**Casting Time:** 1 bonus action
-**Range:** Self
-**Components:** V, S, M (a leaf of sumac)
+*2nd-Circle Arcane (Evocation)*  
+**Casting Time:** 1 bonus action  
+**Range:** Self  
+**Components:** V, S, M (a leaf of sumac)  
 **Duration:** Concentration, up to 10 minutes
 
 You evoke an elemental blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action. When the blade first appears, you decide whether it deals acid, cold, fire, lightning, or thunder damage.

@@ -1,5 +1,5 @@
-*3rd-Circle Primordial and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Primordial and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour

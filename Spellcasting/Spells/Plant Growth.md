@@ -1,7 +1,7 @@
-*3rd-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action or 8 hours
-**Range:** 150 feet
-**Components:** V, S
+*3rd-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action or 8 hours  
+**Range:** 150 feet  
+**Components:** V, S  
 **Duration:** Instantaneous
 
 There are two possible uses for this spell, depending on its casting time, granting either immediate or long-term benefits.

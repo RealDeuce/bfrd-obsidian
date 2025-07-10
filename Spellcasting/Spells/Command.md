@@ -1,5 +1,5 @@
-*1st-Circle Divine and Wyrd (Enchantment)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Wyrd (Enchantment)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V  
 **Duration:** Instantaneous

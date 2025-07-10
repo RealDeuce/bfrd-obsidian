@@ -1,7 +1,7 @@
-*2nd-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** Touch
-**Components:** V, S, M (fur or a feather from a beast)
+*2nd-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** Touch  
+**Components:** V, S, M (fur or a feather from a beast)  
 **Duration:** Concentration, up to 1 hour
 
 You touch a creature and bestow one of the following effects upon it. It gains that effect until the spell ends.

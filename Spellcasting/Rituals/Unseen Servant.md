@@ -1,7 +1,7 @@
-*1st-Circle Arcane and Wyrd Ritual (Conjuration)*
-**Casting Time:** 1 minute
-**Range:** 60 feet
-**Components:** V, S, M (a piece of string and a bit of wood)
+*1st-Circle Arcane and Wyrd Ritual (Conjuration)*  
+**Casting Time:** 1 minute  
+**Range:** 60 feet  
+**Components:** V, S, M (a piece of string and a bit of wood)  
 **Duration:** 1 hour
 
 This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 HP, a STR of 3 (−4), and it can’t attack. If it drops to 0 HP, the spell ends.

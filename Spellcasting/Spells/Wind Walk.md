@@ -1,7 +1,7 @@
-*6th-Circle Primordial (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 30 feet
-**Components:** V, S, M (fire and rainwater)
+*6th-Circle Primordial (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S, M (fire and rainwater)  
 **Duration:** 8 hours
 
 You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical attacks. The only actions a creature can take in this form are the Dash action or to revert to its normal form.

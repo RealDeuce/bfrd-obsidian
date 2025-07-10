@@ -1,5 +1,5 @@
-*3rd-Circle Divine and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*3rd-Circle Divine and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** 1 hour

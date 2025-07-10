@@ -1,5 +1,5 @@
-*5th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*5th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** Self (60-foot cone)  
 **Components:** V, S, M (a small crystal or glass cone)  
 **Duration:** Instantaneous

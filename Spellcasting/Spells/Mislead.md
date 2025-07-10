@@ -1,7 +1,7 @@
-*5th-Circle Arcane (Illusion)*
-**Casting Time:** 1 action
-**Range:** Self
-**Components:** S
+*5th-Circle Arcane (Illusion)*  
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** S  
 **Duration:** Concentration, up to 1 hour
 
 You become [[../../Conditions/Invisible|invisible]] at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.

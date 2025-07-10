@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 reaction, when you or a creature within 60 feet of you falls    
+*1st-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 reaction, when you or a creature within 60 feet of you falls  
 **Range:** 60 feet  
 **Components:** V, M (a small feather or piece of down)  
 **Duration:** 1 minute

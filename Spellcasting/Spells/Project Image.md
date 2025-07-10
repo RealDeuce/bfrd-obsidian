@@ -1,7 +1,7 @@
-*7th-Circle Arcane (Illusion)*
-**Casting Time:** 1 action
-**Range:** 500 feet
-**Components:** V, S, M (a small replica of you made from materials worth at least 5 gp)
+*7th-Circle Arcane (Illusion)*  
+**Casting Time:** 1 action  
+**Range:** 500 feet  
+**Components:** V, S, M (a small replica of you made from materials worth at least 5 gp)  
 **Duration:** Concentration, up to 1 day
 
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.

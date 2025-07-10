@@ -1,5 +1,5 @@
-*5th-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*5th-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S  
 **Duration:** 8 hours

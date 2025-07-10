@@ -1,7 +1,7 @@
-*9th-Circle Primordial Ritual (Transmutation)*
-**Casting Time:** 10 minutes
-**Range:** Touch
-**Components:** V, S, M (raw silk worth 1,000 gp, which the spell consumes)
+*9th-Circle Primordial Ritual (Transmutation)*  
+**Casting Time:** 10 minutes  
+**Range:** Touch  
+**Components:** V, S, M (raw silk worth 1,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 You touch a willing creature and transform it in one of the following four ways (the target must agree with the option you choose):

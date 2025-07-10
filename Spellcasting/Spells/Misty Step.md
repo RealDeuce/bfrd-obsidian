@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 bonus action    
+*2nd-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 bonus action  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous

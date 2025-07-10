@@ -1,5 +1,5 @@
-*4th-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*4th-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a small piece of phosphorus)  
 **Duration:** Concentration, up to 1 minute

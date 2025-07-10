@@ -1,7 +1,7 @@
-*5th-Circle Arcane and Wyrd Ritual (Divination)*
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, M (incense or a sacrificial offering appropriate for the entity contacted worth 25 gp, which the spell consumes)
+*5th-Circle Arcane and Wyrd Ritual (Divination)*  
+**Casting Time:** 10 minutes  
+**Range:** Self  
+**Components:** V, M (incense or a sacrificial offering appropriate for the entity contacted worth 25 gp, which the spell consumes)  
 **Duration:** 1 minute
 
 You mentally contact a demigod, the spirit of a long-dead sage, or some entity from another plane. Contacting this extraplanar being can strain or even break your mind. When you cast this spell, make a DC 15 INT save. On a failure, you take 6d6 psychic damage and become [[../../Conditions/Incapacitated|incapacitated]] until you finish a long rest. While incapacitated in this way, you can’t take actions, can’t understand what other creatures say, can’t read, and speak only in gibberish. A *[[../Spells/Greater Restoration|greater restoration]]* spell cast on you ends this effect.

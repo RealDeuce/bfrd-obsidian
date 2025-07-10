@@ -1,7 +1,7 @@
-*5th-Circle Arcane Ritual (Illusion)*
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a tiny piece of matter of the same type of the item you plan to create)
+*5th-Circle Arcane Ritual (Illusion)*  
+**Casting Time:** 1 minute  
+**Range:** 30 feet  
+**Components:** V, S, M (a tiny piece of matter of the same type of the item you plan to create)  
 **Duration:** Special
 
 You pull wisps of shadow from the Shadow Realm to create a nonliving object or vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.

@@ -1,5 +1,5 @@
-*8th-Circle Divine and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*8th-Circle Divine and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 150 feet (60-foot-radius sphere)  
 **Components:** V, S, M (fire and a piece of sunstone)  
 **Duration:** Instantaneous

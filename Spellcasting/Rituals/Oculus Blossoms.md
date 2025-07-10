@@ -1,7 +1,7 @@
-*7th-Circle Primordial Ritual (Divination)*
-**Casting Time:** 1 minute
-**Range:** 60 feet
-**Components:** V, S, M (a seed or bulb carved with the image of an eye)
+*7th-Circle Primordial Ritual (Divination)*  
+**Casting Time:** 1 minute  
+**Range:** 60 feet  
+**Components:** V, S, M (a seed or bulb carved with the image of an eye)  
 **Duration:** 24 hours
 
 You cause up to five Tiny magical flowers to sprout in spaces you can see within range. The spaces you select must contain an area suitable for supporting a living plant, such as a patch of open ground, a pot of dirt, or similar. The flowers that appear are always of a type native to the area and at a glance are indistinguishable from nonmagical flowers.

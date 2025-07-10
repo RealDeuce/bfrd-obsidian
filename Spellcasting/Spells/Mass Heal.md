@@ -1,5 +1,5 @@
-*9th-Circle Divine and Primordial (Necromancy)*    
-**Casting Time:** 1 action    
+*9th-Circle Divine and Primordial (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

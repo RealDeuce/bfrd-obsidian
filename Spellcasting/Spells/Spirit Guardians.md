@@ -1,5 +1,5 @@
-*3rd-Circle Divine and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*3rd-Circle Divine and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** Self (15-foot radius)  
 **Components:** V, S, M (a memento from a dead person)  
 **Duration:** Concentration, up to 10 minutes

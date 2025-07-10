@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Wyrd (Evocation)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Wyrd (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, M (bat fur and a drop of pitch or piece of coal)  
 **Duration:** Concentration, up to 10 minutes

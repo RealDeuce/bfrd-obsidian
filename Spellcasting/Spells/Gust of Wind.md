@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** Self (60-foot line)  
 **Components:** V, S, M (a legume seed)  
 **Duration:** Concentration, up to 1 minute

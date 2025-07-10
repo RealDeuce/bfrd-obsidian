@@ -1,5 +1,5 @@
-*7th-Circle Arcane and Wyrd (Evocation)*    
-**Casting Time:** 1 action    
+*7th-Circle Arcane and Wyrd (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** 100 feet  
 **Components:** V, S, M (ruby dust worth at least 1,500 gp)  
 **Duration:** Concentration, up to 1 hour

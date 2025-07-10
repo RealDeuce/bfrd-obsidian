@@ -1,7 +1,7 @@
-*1st-Circle Arcane Ritual (Transmutation)*
-**Casting Time:** 1 hour
-**Range:** 5 feet
-**Components:** V, S, M (a life-sized statue, puppet, stuffed animal, or other suitable vessel worth at least 10 gp, which the spell consumes)
+*1st-Circle Arcane Ritual (Transmutation)*  
+**Casting Time:** 1 hour  
+**Range:** 5 feet  
+**Components:** V, S, M (a life-sized statue, puppet, stuffed animal, or other suitable vessel worth at least 10 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
 As part of this ritual, you imbue your chosen vessel with a spark of your own life force to create an arcane familiar. This familiar assumes an animal form you choose from the following options: **[[../../Monsters/Animals/Bat|bat]]**, **[[../../Monsters/Animals/Cat|cat]]**, **[[../../Monsters/Animals/Crab|crab]]**, **[[../../Monsters/Animals/Frog|frog]]** (**toad**), **[[../../Monsters/Animals/Hawk|hawk]]**, **[[../../Monsters/Animals/Lizard|lizard]]**, **[[../../Monsters/Animals/Octopus|octopus]]**, **[[../../Monsters/Animals/Owl|owl]]**, **[[../../Monsters/Animals/Snake, Poisonous|poisonous snake]]**, **fish** (**[[../../Monsters/Animals/Quipper|quipper]]**), **[[../../Monsters/Animals/Rat|rat]]**, **[[../../Monsters/Animals/Raven|raven]]**, **[[../../Monsters/Animals/Seahorse|seahorse]]**, **[[../../Monsters/Animals/Spider|spider]]**, or **[[../../Monsters/Animals/Weasel|weasel]]**. Upon completion of the ritual, your familiar appears in an unoccupied space within 5 feet of you. The familiar has the statistics of the chosen form, though it is considered a Construct rather than a Beast for any relevant spells or effects.

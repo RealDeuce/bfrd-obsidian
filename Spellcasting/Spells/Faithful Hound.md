@@ -1,5 +1,5 @@
-*4th-Circle Divine and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*4th-Circle Divine and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (a tiny silver whistle, a piece of bone, and a thread)  
 **Duration:** 8 hours

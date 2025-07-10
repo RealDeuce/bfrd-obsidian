@@ -1,5 +1,5 @@
-*1st-Circle Arcane and Primordial (Evocation)*    
-**Casting Time:** 1 action    
+*1st-Circle Arcane and Primordial (Evocation)*  
+**Casting Time:** 1 action  
 **Range:** Self (15-foot cone)  
 **Components:** V, S  
 **Duration:** Instantaneous

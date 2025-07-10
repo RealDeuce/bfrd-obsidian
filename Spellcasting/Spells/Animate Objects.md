@@ -1,7 +1,7 @@
-*5th-Circle Arcane (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 120 feet
-**Components:** V, S
+*5th-Circle Arcane (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
 Objects come to life at your command. Choose up to ten nonmagical objects within range that aren't being worn or carried. Medium targets count as two objects, Large targets count as four objects, and Huge targets count as eight objects. You can’t animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 HP.

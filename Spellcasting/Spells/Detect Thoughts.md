@@ -1,5 +1,5 @@
-*2nd-Circle Arcane and Wyrd (Divination)*    
-**Casting Time:** 1 action    
+*2nd-Circle Arcane and Wyrd (Divination)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S, M (a copper piece)  
 **Duration:** Concentration, up to 1 minute

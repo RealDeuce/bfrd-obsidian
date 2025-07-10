@@ -1,5 +1,5 @@
-*9th-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*9th-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet (30-foot-radius sphere)  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute

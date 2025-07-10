@@ -1,5 +1,5 @@
-*1st-Circle Divine and Wyrd (Divination)*    
-**Casting Time:** 1 action    
+*1st-Circle Divine and Wyrd (Divination)*  
+**Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes

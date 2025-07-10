@@ -1,5 +1,5 @@
-*7th-Circle Arcane and Primordial (Transmutation)*    
-**Casting Time:** 1 action    
+*7th-Circle Arcane and Primordial (Transmutation)*  
+**Casting Time:** 1 action  
 **Range:** 100 feet  
 **Components:** V, S, M (a lodestone and iron filings)  
 **Duration:** Concentration, up to 1 minute

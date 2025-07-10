@@ -1,5 +1,5 @@
-*Arcane and Primordial Cantrip (Conjuration)*    
-**Casting Time:** 1 action    
+*Arcane and Primordial Cantrip (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 10 feet  
 **Components:** V, S  
 **Duration:** Instantaneous

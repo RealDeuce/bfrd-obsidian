@@ -1,7 +1,7 @@
-*6th-Circle Arcane (Evocation)*
-**Casting Time:** 1 action
-**Range:** 90 feet
-**Components:** V, S
+*6th-Circle Arcane (Evocation)*  
+**Casting Time:** 1 action  
+**Range:** 90 feet  
+**Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
 You create a vertical wall of whirling, razor-sharp blades made of magical energy within the spell’s range. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three‑quarters cover to creatures behind it, and its space is difficult terrain.

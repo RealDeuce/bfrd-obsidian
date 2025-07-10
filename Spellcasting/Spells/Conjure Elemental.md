@@ -1,5 +1,5 @@
-*5th-Circle Arcane and Wyrd (Conjuration)*    
-**Casting Time:** 1 action    
+*5th-Circle Arcane and Wyrd (Conjuration)*  
+**Casting Time:** 1 action  
 **Range:** 90 feet  
 **Components:** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)  
 **Duration:** Concentration, up to 1 hour

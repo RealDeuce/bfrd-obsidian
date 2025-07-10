@@ -1,7 +1,7 @@
-*2nd-Circle Arcane (Transmutation)*
-**Casting Time:** 1 action
-**Range:** 60 feet
-**Components:** V
+*2nd-Circle Arcane (Transmutation)*  
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V  
 **Duration:** Instantaneous
 
 Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.

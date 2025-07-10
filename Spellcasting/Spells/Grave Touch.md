@@ -1,5 +1,5 @@
-*Arcane and Wyrd Cantrip (Necromancy)*    
-**Casting Time:** 1 action    
+*Arcane and Wyrd Cantrip (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** 1 round

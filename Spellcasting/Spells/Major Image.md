@@ -1,5 +1,5 @@
-*3rd-Circle Arcane and Wyrd (Illusion)*    
-**Casting Time:** 1 action    
+*3rd-Circle Arcane and Wyrd (Illusion)*  
+**Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a bit of fleece)  
 **Duration:** Concentration, up to 10 minutes

@@ -1,5 +1,5 @@
-*6th-Circle Divine and Wyrd (Necromancy)*    
-**Casting Time:** 1 action    
+*6th-Circle Divine and Wyrd (Necromancy)*  
+**Casting Time:** 1 action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous
