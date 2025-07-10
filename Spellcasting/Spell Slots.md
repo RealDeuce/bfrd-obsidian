@@ -1,0 +1,7 @@
+Spell slots are a measure of the reserves that a caster has to hold spell energy, like the reservoir behind a dam. Check the progression table for your spellcasting class to see how many spell slots your character has at a given level. As you gain levels, you gain new slots to cast spells from higher circles and additional slots to cast spells from lower circles.
+
+A caster who has used all their spell slots is spent physically and mentally. They’re out of reserves for further spellcasting. To replenish spell slots, you must complete a short or long rest. Each class specifies which type of rest is required and how many slots you regain when you complete one. This rest represents the time needed to recover from the toll spellcasting takes on the body and mind.
+# Casting at Higher Circles
+Some spell descriptions end with an At Higher Circles section. Casting a spell at a higher circle uses a higher spell slot and increases the spell’s power.
+
+When you cast a spell at a higher circle, the spell assumes all aspects of the higher circle for that casting. For instance, if a wizard casts *magic missile* using a 2nd-circle spell slot, that *magic missile* is considered a 2nd-circle spell. Effectively, the spell expands to fill the slot into which it is put.

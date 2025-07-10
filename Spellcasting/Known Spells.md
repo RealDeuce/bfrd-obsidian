@@ -1,0 +1,3 @@
+A spellcaster must be extremely familiar with a spell or possess a magic item imbued with the spell to cast it. Each spellcasting class solves this familiarity issue differently.
+
+For example, a wizard catalogs their known spells in a spellbook and can add to it when they discover a new spell. Your character class defines how many spells you know and can potentially learn as you gain more class levels.

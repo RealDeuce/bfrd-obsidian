@@ -1,0 +1,9 @@
+During the majority of gameplay, time passes much as it does in our world. Actions and events are measured in **minutes, hours, days,** and years. Gameplay during encounters is often measured more closely in rounds and turns.
+
+When passage of time matters, the GM determines how long a task takes. A GM should always feel free to shift between scales to match what’s happening in the game and to keep the story moving.
+
+***Minutes.*** In tense environments like a dungeon full of patrolling monsters, a GM is likely to track PC progress in a scale of minutes. It might take a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good 10 minutes to search the chamber beyond for anything interesting or valuable. Minutes are also used in some dangerous situations, like measuring how long a PC can hold their breath before suffocating. Minutes also factor into spellcasting. Many spell durations are measured in minutes and ritual spells always take 10 minutes or more to cast.
+
+***Hours.*** In less time-sensitive situations like touring a city or exploring a large forest, a scale of hours is more appropriate. Hours also factor into how often PCs need to rest and how much time passes during a short rest versus a long rest. Hours also factor into how much a PC can accomplish by engaging with downtime activities.
+
+***Days.*** For long journeys, a scale of days works best. For example, a journey could take multiple days that are (mostly) uneventful. A GM might roll on a random encounter table once per day to see if anything notable happens during the journey. If it does, the time scale might shift into hours to explore, minutes to investigate, or rounds to fight! Days also factor into how often PCs can use some abilities or magic items.

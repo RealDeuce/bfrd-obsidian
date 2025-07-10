@@ -1,0 +1,1 @@
+* A surprised creature can’t move or take an action on its first turn of combat, and it can’t take a reaction until after its first turn ends.

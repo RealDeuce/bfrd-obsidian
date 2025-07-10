@@ -1,0 +1,1 @@
+Because of the mental focus and precise gestures required for spellcasting, you must be proficient with any armor you are wearing to cast a spell. You are otherwise too distracted and hampered for spellcasting.

@@ -1,0 +1,3 @@
+The effects of different spells combine while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect, such as the highest bonus from multiple castings, applies while their durations overlap.
+
+For example, if two wizards cast *mage armor* on the same target, that target gains the spell’s benefit only once; they don’t get multiple AC bonuses.
