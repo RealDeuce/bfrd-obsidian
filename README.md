@@ -1,5 +1,7 @@
 This contains the bits of Black Flag Roleplaying Reference Document I want in Obsidian.
 
+At this point, the only things "missing" are the single subclass per class that the BRFD contains, the "Gods we found on Wikipedia" pages, and the spell lists (since all the spells are tagged, and you can generate these using the find tool)
+
 **ORC NOTICE:** This product is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others.  
 All warranties are disclaimed as set forth therein.
 
