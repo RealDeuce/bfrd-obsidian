@@ -18,3 +18,5 @@ If you use our Licensed Material in your own published works, please credit us a
 **Expressly Designated Licensed Material:** This product contains no Expressly Designated Licensed Material.
 
 The monsters use the Fantasy Statblocks Obsidian plugin. You will need to import the Basic ToV Layout. Got to Settings -> Community Plugins -> Fantasy Statblocks -> Layouts and press the Import from JSON button. Browse to where this file is, and select `Basic ToV Layout.json` you may need to restart Obsidian for the layout to take effect.
+
+The vehicles use the Fantasy Statblocks Obsidian plugin. You will need to import the Basic ToV Vehicle Layout. Got to Settings -> Community Plugins -> Fantasy Statblocks -> Layouts and press the Import from JSON button. Browse to where this file is, and select `Basic ToV Vehicle Layout.json` you may need to restart Obsidian for the layout to take effect.
