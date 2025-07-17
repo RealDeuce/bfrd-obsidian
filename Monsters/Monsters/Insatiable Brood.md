@@ -26,7 +26,7 @@ traits:
   - name: Void Dweller.
     desc: "The insatiable brood doesn’t require air, food, drink, or sleep, and it is immune to the effects of Void terrain. In addition, it can fly through the Void as if through air."
 stealth: 15
-hp: 63
+hp: 64
 type: Swarm of Tiny Aberrations
 name: Insatiable Brood
 cr: 3

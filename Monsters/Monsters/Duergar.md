@@ -28,7 +28,7 @@ actions:
   - name: Invisibility.
     desc: "The duergar magically turns [[../../Conditions/Invisible|invisible]] until it attacks or uses Enlarge, or until its concentration ends (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it."
 languages: Dwarvish, Undercommon
-senses: darkvision 120 ft., passive Perception 10
+senses: darkvision 120 ft.
 perception: 10
 cr: 1
 reactions:

@@ -1,5 +1,5 @@
 *7th-Circle Arcane Ritual (Abjuration)*  
-**Casting Time:** 1 action  
+**Casting Time:** 1 minute  
 **Range:** Touch  
 **Components:** V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)  
 **Duration:** Until dispelled or triggered

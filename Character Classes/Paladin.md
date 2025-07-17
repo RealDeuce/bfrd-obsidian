@@ -1,21 +1,20 @@
 As a paladin, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d10 per paladin level  
-**Hit Points at 1st Level:** 10 + your CON modifier  
-**Hit Points at Higher Levels:** 1d10 (or 6) + your CON modifier per paladin level after 1st
+* **Hit Dice:** 1d10 per paladin level
+* **Hit Points at 1st Level:** 10 + your CON modifier
+* **Hit Points at Higher Levels:** 1d10 (or 6) + your CON modifier per paladin level after 1st
 # Proficiencies
-**Armor:** All armor and shields  
-**Weapons:** Simple weapons, martial weapons  
-**Tools:** None  
-**Saves:** WIS, CHA  
-**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+* **Armor:** All armor and shields
+* **Weapons:** Simple weapons, martial weapons
+* **Tools:** None
+* **Saves:** WIS, CHA
+* **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a martial weapon and a shield or (b) two martial weapons
 * (a) five javelins or (b) any simple melee weapon
 * (a) a priest’s pack or (b) an explorer's pack
 * Chain mail and a holy symbol
-
 ###### Paladin Progression
 | Level | PB  | Features                                   | Spells Known |
 | ----- | --- | ------------------------------------------ | ------------ |
@@ -105,8 +104,8 @@ The Spells Known column of the **Paladin Progression** table shows when you lear
 In addition, when you gain a level of paladin, you can choose one Divine spell you know and replace it with another spell of your choice from the Divine spell list. The replacement spell must be of a circle for which you have Divine spell slots.
 ## Spellcasting Ability
 Charisma (CHA) is your spellcasting ability. Your CHA modifier determines the save DC or the attack modifier for certain spells you cast:  
-$\quad$**Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
-$\quad$**Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
+* **Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
+* **Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
 ## Spellcasting Focus
 You can use a holy symbol as a spellcasting focus for your Divine spells.
 # Paladin Subclass

@@ -1,14 +1,14 @@
 As a ranger, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d10 per ranger level  
-**Hit Points at 1st Level:** 10 + your CON modifier  
-**Hit Points at Higher Levels:** 1d10 (or 6) + your CON modifier per ranger level after 1st
+* **Hit Dice:** 1d10 per ranger level
+* **Hit Points at 1st Level:** 10 + your CON modifier
+* **Hit Points at Higher Levels:** 1d10 (or 6) + your CON modifier per ranger level after 1st
 # Proficiencies
-**Armor:** Light armor, medium armor, and shields  
-**Weapons:** Simple weapons, martial weapons  
-**Tools:** Your choice of herbalist tools, navigator tools, or trapper tools  
-**Saves:** STR, DEX  
-**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+* **Armor:** Light armor, medium armor, and shields
+* **Weapons:** Simple weapons, martial weapons
+* **Tools:** Your choice of herbalist tools, navigator tools, or trapper tools
+* **Saves:** STR, DEX
+* **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) scale mail or (b) leather armor

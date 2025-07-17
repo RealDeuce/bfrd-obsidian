@@ -93,7 +93,19 @@
 | Tinderbox                              | 5 sp     | 1 lb.        |
 | Torch                                  | 1 cp     | 1 lb.        |
 | Whetstone                              | 1 cp     | 1 lb.        |
-
+###### Container Capacity
+| Container                 | Volume Capacity            | Weight Capacity |
+| ------------------------- | -------------------------- | --------------- |
+| Backpack                  | 1 cubic foot               | 30 lb.          |
+| Barrel                    | 4 cubic feet or 40 gallons | 300 lb.         |
+| Basket                    | 2 cubic feet               | 40 lb.          |
+| Bottle, flask, or tankard | 1 pint                     | 1 lb.           |
+| Chest1                    | 2 cubic feet               | 300 lb.         |
+| Jug, pitcher, or pot      | 1 gallon                   | 8 lb.           |
+| Pouch                     | 1/5 cubic foot             | 6 lb.           |
+| Sack                      | 1 cubic foot               | 30 lb.,         |
+| Vial                      | 4 oz                       | 1/4 lb.         |
+| Waterskin                 | 4 pints                    | 4 lb.           |
 ***Acid.*** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 
 ***Alchemist’s Fire.*** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist’s fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 DEX (Sleight of Hand) check to extinguish the flames.

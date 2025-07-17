@@ -26,7 +26,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 Each time you use it, the figurine has a 10 percent chance to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the Ethereal Plane, where the nightmare reverts to figurine form.
 
-***Onyx Dog (Rare, 8,000 gp).*** This onyx statuette of a dog can become a **[[../../Monsters/Animals/Mastiff|mastiff]]** for up to 6 hours. The mastiff has an INT score of 8 and can speak Common. It also has darkvision to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can’t be used again until 7 days have passed.
+***Onyx Dog (Rare, 8,000 gp).*** This onyx statuette of a dog can become a **[[../../Monsters/Animals/Mastiff|mastiff]]** for up to 6 hours. The mastiff has an INT of -1 and can speak Common. It also has darkvision to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can’t be used again until 7 days have passed.
 
 ***Serpentine Owl (Rare, 8,000 gp).*** This serpentine statuette of an owl can become a **[[../../Monsters/Animals/Owl, Giant|giant owl]]** for up to 8 hours. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence. Once it has been used, it can’t be used again until 2 days have passed.
 

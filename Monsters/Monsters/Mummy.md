@@ -3,7 +3,7 @@
 layout: Basic ToV Layout
 actions:
   - name: Multiattack.
-    desc: "The mummy makes two Rotting Fist attacks. If both attacks hit one creature that isn’t a Construct or Undead, the target must succeed on a DC 13 CON save or be cursed with mummy rot (see the Mummy Rot sidebar)."
+    desc: "The mummy makes two Rotting Fist attacks. If both attacks hit one creature that isn’t a Construct or Undead, the target must succeed on a DC 13 CON save or be cursed with [[../../Running the Game/Environmental Hazard Descriptions/Curse Descriptions#Mummy Rot|mummy rot]]."
   - name: Rotting Fist.
     desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 7 (1d8 + 3) bludgeoning damage plus 7 (2d6) necrotic damage."
 stats: ['+3', '−1', '+3', '−2', '+2', '+1']

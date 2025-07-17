@@ -1,14 +1,14 @@
 As a mechanist, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d10 per mechanist level
-**Hit Points at 1st Level:** 10 + your CON modifier
-**Hit Points at Higher Levels:** 1d10 (or 6) + your CON modifier per mechanist level after 1st
+* **Hit Dice:** 1d10 per mechanist level
+* **Hit Points at 1st Level:** 10 + your CON modifier
+* **Hit Points at Higher Levels:** 1d10 (or 6) + your CON modifier per mechanist level after 1st
 # Proficiencies
-**Armor:** Light armor, medium armor, and shields
-**Weapons:** Simple weapons, martial weapons
-**Tools:** Tinker tools and two additional tools your choice
-**Saves:** CON, INT
-**Skills:** Choose two from Arcana, History, Investigation, Perception, and Sleight of Hand
+* **Armor:** Light armor, medium armor, and shields
+* **Weapons:** Simple weapons, martial weapons
+* **Tools:** Tinker tools and two additional tools your choice
+* **Saves:** CON, INT
+* **Skills:** Choose two from Arcana, History, Investigation, Perception, and Sleight of Hand
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a martial weapon and a shield or (b) two simple weapons
@@ -16,28 +16,28 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) scale mail or (b) leather armor
 * Tinker tools and a dungeoneer’s pack
 ###### Mechanist Progression
-| Level | PB  | Augment Effects Known | Augmented Items | Features |
-| ----- | --- | --------------------- | --------------- | -------- |
-| 1st | +2 | — | — | Eyes of the Maker, Shard of Creation |
-| 2nd | +2 | 2 | 3 | Augment, Efficient Action |
-| 3rd | +2 | 3 | 3 | Mechanist Subclass |
-| 4th | +2 | 3 | 3 | Improvement |
-| 5th | +3 | 4 | 4 | Multiattack (2/Attack Action) |
-| 6th | +3 | 4 | 4 | Rapid Augment |
-| 7th | +3 | 5 | 4 | Subclass Feature |
-| 8th | +3 | 5 | 4 | Improvement |
-| 9th | +4 | 6 | 5 | Greater Creation |
-| 10th | +4 | 6 | 5 | Heroic Boon |
-| 11th | +4 | 6 | 5 | Subclass Feature |
-| 12th | +4 | 7 | 5 | Improvement |
-| 13th | +5 | 7 | 6 | Engineer’s Insight |
-| 14th | +5 | 7 | 6 | Ranged Augment |
-| 15th | +5 | 8 | 6 | Subclass Feature |
-| 16th | +5 | 8 | 6 | Improvement |
-| 17th | +6 | 8 | 7 | Always Prepared |
-| 18th | +6 | 9 | 7 | Perfect Creation |
-| 19th | +6 | 9 | 7 | Improvement |
-| 20th | +6 | 9 | 7 | Epic Boon |
+| Level | PB  | Augment Effects Known | Augmented Items | Features                             |
+| ----- | --- | --------------------- | --------------- | ------------------------------------ |
+| 1st   | +2  | —                     | —               | Eyes of the Maker, Shard of Creation |
+| 2nd   | +2  | 2                     | 3               | Augment, Efficient Action            |
+| 3rd   | +2  | 3                     | 3               | Mechanist Subclass                   |
+| 4th   | +2  | 3                     | 3               | Improvement                          |
+| 5th   | +3  | 4                     | 4               | Multiattack (2/Attack Action)        |
+| 6th   | +3  | 4                     | 4               | Rapid Augment                        |
+| 7th   | +3  | 5                     | 4               | Subclass Feature                     |
+| 8th   | +3  | 5                     | 4               | Improvement                          |
+| 9th   | +4  | 6                     | 5               | Greater Creation                     |
+| 10th  | +4  | 6                     | 5               | Heroic Boon                          |
+| 11th  | +4  | 6                     | 5               | Subclass Feature                     |
+| 12th  | +4  | 7                     | 5               | Improvement                          |
+| 13th  | +5  | 7                     | 6               | Engineer’s Insight                   |
+| 14th  | +5  | 7                     | 6               | Ranged Augment                       |
+| 15th  | +5  | 8                     | 6               | Subclass Feature                     |
+| 16th  | +5  | 8                     | 6               | Improvement                          |
+| 17th  | +6  | 8                     | 7               | Always Prepared                      |
+| 18th  | +6  | 9                     | 7               | Perfect Creation                     |
+| 19th  | +6  | 9                     | 7               | Improvement                          |
+| 20th  | +6  | 9                     | 7               | Epic Boon                            |
 # Eyes of the Maker
 *1st-Level Mechanist Feature*  
 When you touch a magic item or some other magic-imbued object, you learn its properties and how to use it, whether it requires attunement to use, and how many charges it has (if any). You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
@@ -51,9 +51,9 @@ The shard has a number of charges equal to your INT modifier (minimum of 1), and
 ## Inspire
 When you make an ability check while touching the shard (regardless of its current form), you can spend 1 charge to roll a d6 and add the number rolled to your check result.
 ## Transform
-While touching the shard, you can use an action to transform it into any type of nonmagical weapon or shield or into any object of Medium size or smaller. The object appears in an unoccupied space within 10 feet of you, but the chosen space must contain a surface or liquid capable of supporting the object. If the object you create is of an appropriate size to be worn or held, you can choose for the object to appear in your hand or on your person. The total value (in gold pieces) of an object created can’t be more than 20 × your mechanist level.
+While touching the shard, you can use an action and expend 1 charge to transform it into any type of nonmagical weapon or shield or object of Medium size or smaller. The object appears in an unoccupied space within 10 feet of you, but the chosen space must contain a surface or liquid capable of supporting the object. If the object you create is of an appropriate size to be worn or held, you can choose for the object to appear in your hand or on your person. The total value (in gold pieces) of an object created can’t be more than 20 × your mechanist level.
 
-A transformed shard remains in its new form until you die, use an action to return it to its original state, or use an action to transform it again. No matter what shape the shard assumes, those who handle the shard can sense something strange about its nature. The shard can’t be passed off as a typical item for purposes of buying and selling.
+A transformed shard remains in its new form until you die, use an action to return it to its original state (expending no charges), or use an action to transform it again. No matter what shape the shard assumes, those who handle the shard can sense something strange about its nature. The shard can’t be passed off as a typical item for purposes of buying and selling.
 # Augment
 *2nd-Level Mechanist Feature*  
 You gain the ability to channel magical energy into items. To use this ability, you must spend 1 hour focusing on the item that you wish to augment while remaining in physical contact with it (which can be done as part of a short or long rest).

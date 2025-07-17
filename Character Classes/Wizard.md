@@ -1,14 +1,14 @@
 As a wizard, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d6 per wizard level  
-**Hit Points at 1st Level:** 6 + your CON modifier  
-**Hit Points at Higher Levels:** 1d6 (or 4) + your CON modifier per wizard level after 1st
+* **Hit Dice:** 1d6 per wizard level
+* **Hit Points at 1st Level:** 6 + your CON modifier
+* **Hit Points at Higher Levels:** 1d6 (or 4) + your CON modifier per wizard level after 1st
 # Proficiencies
-**Armor:** None  
-**Weapons:** Simple weapons  
-**Tools:** None  
-**Saves:** INT, WIS  
-**Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+* **Armor:** None
+* **Weapons:** Simple weapons
+* **Tools:** None
+* **Saves:** INT, WIS
+* **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a quarterstaff or (b) a dagger
@@ -73,6 +73,14 @@ As a student of Arcane magic, you have a spellbook containing spells that show t
 At 1st level, choose three cantrips from the Arcane spell list to learn. You choose more Arcane cantrips to learn at higher levels, as shown in the Cantrips Known column of the Wizard Progression table.
 ## Spellbook
 At 1st level, your spellbook contains six 1st-circle Arcane spells of your choice. It is the repository of all the Arcane spells you know—except for your cantrips, which are so simple and well-rehearsed that you don’t even need to write them down.
+### Your Spellbook
+The spells you automatically add to your spellbook as you gain levels reflect the spell research you conduct on your own. However, you might find other spells during your adventures.
+
+Copying a Spell into the Book. When you find an Arcane spell of 1st circle or higher, you can add it to your spellbook if it is of a spell circle you can prepare and if you can make time to decipher and copy it. For each circle of the spell, the process takes 2 hours and costs 50 gp. Once you have spent this time and money, you can prepare the spell just like your other Arcane spells. Copying a spell from a scroll into your spellbook doesn’t consume or destroy the scroll.
+
+Replacing the Book. You can copy a spell from your own spellbook into another book. This is faster and easier since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each circle of the copied spell.
+
+If you lose your spellbook, you can use the same procedure to transcribe the spells you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells, as normal.
 ## Preparing Spells
 You must prepare spells in advance before you can cast them. You can prepare any spell in your spellbook for which you have Arcane spell slots. (You determine which spell slots you can access by checking your level on the **Wizard Progression** table.) You can choose a number of spells equal to your INT modifier + your wizard level (minimum of one spell). This is your list of prepared spells from which you can cast.
 

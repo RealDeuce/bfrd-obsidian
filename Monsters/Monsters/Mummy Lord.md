@@ -46,7 +46,7 @@ actions:
   - name: Blessed Khopesh.
     desc: "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  *Hit:* 11 (2d6 + 4) slashing damage plus 14 (4d6) necrotic damage or radiant damage (the mummy lord’s choice)."
   - name: Rotting Fist.
-    desc: "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  *Hit:* 13 (2d8 + 4) bludgeoning damage plus 21 (6d6) necrotic damage, and the target must succeed on a DC 17 CON save or be cursed with mummy rot (see the Mummy Rot sidebar)."
+    desc: "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  *Hit:* 13 (2d8 + 4) bludgeoning damage plus 21 (6d6) necrotic damage, and the target must succeed on a DC 17 CON save or be cursed with [[../../Running the Game/Environmental Hazard Descriptions/Curse Descriptions#Mummy Rot|mummy rot]]."
   - name: Divine Bolt.
     desc: "*Ranged Spell Attack:* +9 to hit, range 120 ft., one target.  *Hit:* 21 (5d6 + 4) necrotic damage or radiant damage (the mummy lord’s choice)."
   - name: Undead Servitors.

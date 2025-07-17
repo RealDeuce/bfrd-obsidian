@@ -1,18 +1,18 @@
 As a druid, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d8 per druid level  
-**Hit Points at 1st Level:** 8 + your CON modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per druid level after 1st
+* **Hit Dice:** 1d8 per druid level
+* **Hit Points at 1st Level:** 8 + your CON modifier
+* **Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per druid level after 1st
 # Proficiencies
-**Armor:** Light armor, medium armor, and shields  
-**Weapons:** Simple weapons  
-**Tools:** Herbalist tools  
-**Saves:** INT, WIS  
-**Skills:** Choose two from Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, and Survival
+* **Armor:** Light armor, medium armor, and shields
+* **Weapons:** Simple weapons
+* **Tools:** Herbalist tools
+* **Saves:** INT, WIS
+* **Skills:** Choose two from Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, and Survival
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a shield or (b) any simple weapon
-* (a) a scimitar or (b) any simple melee weapon
+* (a) a sickle or (b) any simple melee weapon
 * Leather armor, an explorer’s pack, and a druidic focus
 ###### Druid Progression
 | Level | PB  | Beast Forms Known | Features                                                | Cantrips Known | Rituals Known |
@@ -77,8 +77,8 @@ The **Druid Progression** table shows how many Primordial spell slots you have p
 Casting a spell doesn’t remove it from your list of prepared spells, it just uses up a spell slot. You regain all used spell slots when you finish a long rest.
 ## Spellcasting Ability
 Wisdom (WIS) is your spellcasting ability. Your WIS modifier determines the save DC or the attack modifier for certain spells you cast:  
-$\quad$**Spell save DC** = 8 + your proficiency bonus (PB) + your WIS modifier  
-$\quad$**Spell attack modifier** = your proficiency bonus (PB) + your WIS modifier
+* **Spell save DC** = 8 + your proficiency bonus (PB) + your WIS modifier  
+* **Spell attack modifier** = your proficiency bonus (PB) + your WIS modifier
 ## Rituals
 You can also cast a type of long-form spell called a ritual. Rituals don’t need to be prepared, and they don’t use up spell slots.
 
@@ -103,9 +103,27 @@ Beginning at 2nd level, you can use your Wild Shape feature once until you finis
 ## Wild Shape: Beast Form
 As an action, you can magically assume the form of a Beast. When you first gain this feature, choose two Beasts of challenge rating (CR) 1/4 or less as your known forms. To select a known form, you must have seen or interacted with a Beast in your past. For example, a druid that hails from a desert environment is unlikely to be familiar enough with a sea-dwelling creature like a dolphin to select it as a known form. The Beast you choose can’t have any legendary actions or lair actions.
 
-As you advance in druid levels, you can choose more beast forms as shown in the Beast Forms Known column of the
-## Druid Progression table.
+As you advance in druid levels, you can choose more beast forms as shown in the Beast Forms Known column of the **Druid Progression** table.
+
 When you gain a level of druid, you can replace one known form with a different form of your choosing. Any new form you choose must abide by the form restrictions.
+### Rules of Transformation
+You can stay in a beast form for a number of hours equal to your PB. You then revert to your normal form unless you expend another use of Wild Shape. You can also choose to revert to your normal form as a bonus action. You automatically revert if you become unconscious, drop to 0 HP while in beast form, or die.
+
+While transformed, your game statistics are replaced by those of your new form, except you retain your INT, WIS, and CHA scores. You also retain your personality. If you make an ability check or save while in beast form, you can choose whether to use either your normal character proficiencies and PB or else use the Beast’s listed ability modifier to determine the check total (without your PB in this case).
+
+Your hit points for the new form are set to a new amount dependent on the size of your new form, as shown in the Hit Points by Form Size table. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 HP, any excess damage carries over to your normal form. For example, if you take 10 damage while in beast form and your beast form has only 1 HP left, you revert to your normal form and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 HP, you remain conscious.
+
+You are limited by the actions you can perform by the nature of your new form, and you can’t speak or take any other action that requires hands or speech unless your new form is capable of such actions. You can’t cast spells while transformed. However, transforming doesn’t automatically break your concentration on a spell you’ve already cast or prevent you from taking actions that are part of an ongoing spell—such as those required by the call lightning spell.
+
+Your gear and anything you are wielding melds into your new form. You can’t activate, use, or otherwise benefit from any of your gear while transformed.
+###### Hit Points by Form Size
+| Form Size          | Hit Points   |
+| ------------------ | ------------ |
+| Tiny               | 2 + your PB  |
+| Small              | 5 + your PB  |
+| Medium             | 12 + your PB |
+| Large              | 22 + your PB |
+| Huge or Gargantuan | 84 + your PB |
 ## Wild Shape: Draw Power
 As a bonus action, you can reshape the natural energies around you to draw them within yourself and recharge your spellcasting ability. When you do so, choose a single expended Primordial spell slot to recover. The recovered spell slot must be of a circle equal to or less than your proficiency bonus (PB). For example, a 5th-level druid with a PB of +3 could recover an expended 1st, 2nd, or 3rd-circle Primordial spell slot with this feature.
 

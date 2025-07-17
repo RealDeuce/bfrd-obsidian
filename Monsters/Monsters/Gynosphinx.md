@@ -23,6 +23,7 @@ traits:
     desc: "The sphinx’s Claw attacks are magical. When the sphinx hits with a Claw attack, the Claw deals an extra 3d6 psychic damage (included in the attack)."
 hp: 204
 type: Monstrosity
+subtype: Outsider
 speed: 40 ft., fly 60 ft.
 ac: 17 (natural armor)
 size: Large

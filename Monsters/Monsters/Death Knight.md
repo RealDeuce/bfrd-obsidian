@@ -29,7 +29,7 @@ actions:
     desc: "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.  *Hit:* 11 (2d6 + 4) slashing damage and 7 (2d6) necrotic damage."
   - name: Necrotic Bolt.
     desc: "*Ranged Spell Attack:* +7 to hit, range 60 ft., one target.  *Hit:* 18 (4d6 + 4) necrotic damage."
-languages: Common
+languages: the languages it knew in life
 senses: darkvision 90 ft.
 immune: necrotic | frightened | Undead Resilience
 perception: 15

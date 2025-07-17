@@ -43,7 +43,7 @@
 # Supplicant Heritage
 ***Scurry.*** As a bonus action, you can move up to 10 feet without provoking opportunity attacks. This movement doesn't trigger traps or hazards that you are aware of, even if they are armed.
 
-***Supplicant.*** You have proficiency in either the Insight or Persuasion skill. When a creature within 30 feet of you spends Doom, you have advantage on ability checks and saves until the beginning of your next turn.
+***Supplicant.*** You have proficiency in either the Insight or Persuasion skill. When a creature within 30 feet of you spends [[../Running the Game/Doom|Doom]], you have advantage on ability checks and saves until the beginning of your next turn.
 
 ***Languages.*** You know Common and one additional language of your choice, typically the language favored by your current or previous overlord (such as Draconic, Giant, or Undercommon).
 # Wildlands Heritage

@@ -10,7 +10,7 @@ actions:
   - name: Multiattack (Humanoid or Hybrid Form Only).
     desc: "The weretiger makes four Claw or Scimitar attacks, or it makes four Longbow attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form."
   - name: Bite (Tiger or Hybrid Form Only).
-    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 8 (1d10 + 3) piercing damage. If the target is a Humanoid, it must succeed on a DC 13 CON save or be cursed with the weretiger lycanthropy curse (see Curse of Lycanthropy sidebar)."
+    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 8 (1d10 + 3) piercing damage. If the target is a Humanoid, it must succeed on a DC 13 CON save or be cursed with the weretiger [[../../Running the Game/Environmental Hazard Descriptions/Curse Descriptions#Curse of Lycanthropy|lycanthropy curse]]."
   - name: Claw (Tiger or Hybrid Form Only).
     desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 7 (1d8 + 3) slashing damage."
   - name: Scimitar (Humanoid or Hybrid Form Only).

@@ -14,7 +14,7 @@ actions:
   - name: Multiattack.
     desc: "The werebear makes three Claw or Greataxe attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form. If two Claw attacks hit one creature, the target is [[../../Conditions/Grappled|grappled]] (escape DC 15). The werebear can grapple only one creature at a time."
   - name: Bite (Bear or Hybrid Form Only).
-    desc: "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.  *Hit:* 16 (2d10 + 5) piercing damage. If the target is a Humanoid, it must succeed on a DC 14 CON save or be cursed with the werebear lycanthropy curse (see Curse of Lycanthropy sidebar)."
+    desc: "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.  *Hit:* 16 (2d10 + 5) piercing damage. If the target is a Humanoid, it must succeed on a DC 14 CON save or be cursed with the werebear [[../../Running the Game/Environmental Hazard Descriptions/Curse Descriptions#Curse of Lycanthropy|lycanthropy curse]]."
   - name: Claw (Bear or Hybrid Form Only).
     desc: "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.  *Hit:* 14 (2d8 + 5) slashing damage."
   - name: Greataxe (Humanoid or Hybrid Form Only).

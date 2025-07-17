@@ -1,14 +1,14 @@
 As a cleric, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d8 per cleric level
-**Hit Points at 1st Level:** 8 + your CON modifier
-**Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per cleric level after 1st
+* **Hit Dice:** 1d8 per cleric level
+* **Hit Points at 1st Level:** 8 + your CON modifier
+* **Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per cleric level after 1st
 # Proficiencies
-**Armor:** Light armor, medium armor, shields  
-**Weapons:** Simple weapons  
-**Tools:** None  
-**Saves:** WIS, CHA  
-**Skills**: Choose two from History, Insight, Medicine, Persuasion, and Religion
+* **Armor:** Light armor, medium armor, shields
+* **Weapons:** Simple weapons
+* **Tools:** None
+* **Saves:** WIS, CHA
+* **Skills**: Choose two from History, Insight, Medicine, Persuasion, and Religion
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a mace or (b) a warhammer (if proficient)
@@ -80,8 +80,8 @@ The **Cleric Progression** table shows how many Divine spell slots you have at a
 Casting a spell doesn’t remove it from your list of prepared spells, it just uses up a spell slot. You regain all used spell slots when you finish a long rest.
 ## Spellcasting Ability
 Wisdom (WIS) is your spellcasting ability. Your WIS modifier determines the save DC and the attack modifier for certain spells you cast:  
-$\quad$**Spell save DC** = 8 + your proficiency bonus (PB) + your WIS modifier  
-$\quad$**Spell attack modifier** = your proficiency bonus (PB) + your WIS modifier
+* **Spell save DC** = 8 + your proficiency bonus (PB) + your WIS modifier  
+* **Spell attack modifier** = your proficiency bonus (PB) + your WIS modifier
 ## Rituals
 You can also cast a type of long-form spell called a ritual. Rituals don’t need to be prepared, and they don’t use up spell slots.
 

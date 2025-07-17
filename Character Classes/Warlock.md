@@ -1,14 +1,14 @@
 As a warlock, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d8 per warlock level
-**Hit Points at 1st Level:** 8 + your CON modifier
-**Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per warlock level after 1st
+* **Hit Dice:** 1d8 per warlock level
+* **Hit Points at 1st Level:** 8 + your CON modifier
+* **Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per warlock level after 1st
 # Proficiencies
-**Armor:** Light armor, medium armor, shields  
-**Weapons:** Simple weapons  
-**Tools:** None  
-**Saves:** WIS, CHA  
-**Skills:** Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+* **Armor:** Light armor, medium armor, shields
+* **Weapons:** Simple weapons
+* **Tools:** None
+* **Saves:** WIS, CHA
+* **Skills:** Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
@@ -107,8 +107,8 @@ The Spells Known column of the **Warlock Progression** table shows when you lear
 In addition, when you gain a level of warlock, you can choose one Wyrd spell you know and replace it with another spell of your choice from the Wyrd spell list. The replacement spell must be of a circle for which you have Wyrd spell slots.
 ## Spellcasting Ability
 Charisma (CHA) is your spellcasting ability. Your CHA modifier determines the save DC or the attack modifier for certain spells you cast:  
-$\quad$**Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
-$\quad$**Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
+* **Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
+* **Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
 ## Spellcasting Focus
 You can use a wyrd focus as a spellcasting focus for your Wyrd spells.
 # Warlock Subclass
@@ -145,7 +145,7 @@ On your adventures, you can add other Wyrd rituals you find to your Book of Shad
 *10th-Level Warlock Feature*  
 Your commitment to the warlock’s path grants you a powerful new ability. Choose one of the following heroic boons:
 * **Echoes of Knowledge.** You learn one 1st-circle and one 2nd-circle spell of your choice from any spell list, they count as Wyrd spells for you. The chosen spells can’t be rituals, and they don’t count against your total spells known. These spells are added to your list of Pact Spells and can be cast by expending a use of Pact Magic or by expending Wyrd spell slots as normal.
-* **Echoes of Power.** When you successfully hit with one of your Eldritch Blast beams and roll a 10 on the damage die, you can roll the d10 again and add the result as extra force damage dealt by that beam.
+* **Echoes of Power.** When you successfully hit with one of your Eldritch Blast beams and roll a 10 on the damage die, you can roll the d10 again and add the number rolled as extra force damage dealt by that beam.
 # Patron’s Favor
 *18th-Level Warlock Feature*  
 You can call upon your patron’s power by expending a use of your Pact Magic feature to cast any spell you know of 5th-circle or lower from any spell list.

@@ -12,7 +12,7 @@ bonus_actions:
   - name: Challenging Snort (Boar or Hybrid Form Only).
     desc: "The wereboar snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a DC 13 WIS save or be [[../../Conditions/Frightened|frightened]] until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the wereboar."
   - name: Change Shape.
-    desc: "The wereboar transforms into a Medum or Large boar, a Medium boar-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size, speed, and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."
+    desc: "The wereboar transforms into a Medium or Large boar, a Medium boar-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size, speed, and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."
 resistant: bludgeoning, piercing, and slashing damage from nonmagical attacks
 traits:
   - name: Charge (Boar or Hybrid Form Only).
@@ -29,7 +29,7 @@ actions:
   - name: Slam (Boar or Hybrid Form Only).
     desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 10 (2d6 + 3) bludgeoning damage."
   - name: Tusks (Boar or Hybrid Form Only).
-    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 10 (2d6 + 3) slashing damage. If the target is a Humanoid, it must succeed on a DC 12 CON save or be cursed with the wereboar lycanthropy curse (see Curse of Lycanthropy sidebar)."
+    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 10 (2d6 + 3) slashing damage. If the target is a Humanoid, it must succeed on a DC 12 CON save or be cursed with the wereboar [[../../Running the Game/Environmental Hazard Descriptions/Curse Descriptions#Curse of Lycanthropy|lycanthropy curse]]."
 subtype: Shapechanger, Lycanthrope
 size: Medium
 ac: 10 in humanoid form, 11 (natural armor) in boar or hybrid form

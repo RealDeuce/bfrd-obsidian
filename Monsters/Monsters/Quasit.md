@@ -5,7 +5,7 @@ stats: ['−3', '+5', '+0', '−2', '+0', '+0']
 subtype: Outsider, Demon
 actions:
   - name: Claws (True Form Only).
-    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or take 5 (2d4) poison damage and be [[../../Conditions/Poisoned|poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 13 CON save or take 5 (2d4) poison damage and be [[../../Conditions/Poisoned|poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
   - name: Slam (Beast Form Only).
     desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  *Hit:* 10 (2d6 + 3) bludgeoning, piercing, or slashing damage (based on the type of damage dealt by the Beast form’s primary attack, such as Bite)."
   - name: Invisibility (True Form Only).
@@ -19,7 +19,7 @@ bonus_actions:
   - name: Change Shape.
     desc: "The quasit magically transforms into a Medium or smaller Beast that has a CR no higher than its own or back into its true form, which is a Fiend. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies."
   - name: Scare (1/Day; True Form Only).
-    desc: "One creature of the quasit’s choice within 20 feet of it must succeed on a DC 13 Wisdom saving throw or be [[../../Conditions/Frightened|frightened]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    desc: "One creature of the quasit’s choice within 20 feet of it must succeed on a DC 13 WIS save or be [[../../Conditions/Frightened|frightened]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 resistant: Demonic Resilience
 traits:
   - name: Demonic Resilience.

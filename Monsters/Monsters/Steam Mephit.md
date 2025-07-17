@@ -14,6 +14,8 @@ bonus_actions:
 traits:
   - name: Death Burst.
     desc: "When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 11 DEX save or be scalded for 1 minute. A scalded creature has disadvantage on weapon attack rolls and on ability checks that require manual dexterity. A scalded creature can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+  - name: Elemental Nature.
+    desc: The mephit doesn’t require air, food, drink, or sleep.
   - name: False Appearance.
     desc: "While the mephit remains motionless and hovering, it is indistinguishable from an ordinary cloud of steam."
 stealth: 14

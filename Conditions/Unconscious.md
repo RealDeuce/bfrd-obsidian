@@ -1,4 +1,4 @@
-* An unconscious creature is [[Incapacitated|incapacitated]] (can’t take actions or reactions), can’t move or speak, and is unaware of its surroundings.
+* An unconscious creature is [[Incapacitated|incapacitated]] (can’t take actions, bonus actions, or reactions), can’t move or speak, and is unaware of its surroundings.
 * The creature drops whatever it’s holding and falls [[Prone|prone]].
 * The creature automatically fails Strength and Dexterity saves.
 * Attack rolls against an unconscious creature have advantage.

@@ -23,6 +23,8 @@ bonus_actions:
 traits:
   - name: Death Burst.
     desc: "When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must succeed on a DC 11 DEX save or be [[../../Conditions/Blinded|blinded]] for 1 minute. A blinded creature can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+  - name: Elemental Nature.
+    desc: The mephit doesn’t require air, food, drink, or sleep.
   - name: False Appearance.
     desc: "While the mephit remains motionless and hovering, it is indistinguishable from an ordinary cloud of dust."
 stealth: 14

@@ -8,7 +8,7 @@ languages: Common, Draconic
 immune: fire
 cr: 17
 type: Dragon
-hp: 284
+hp: 301
 stealth: 18
 legendary_actions:
   - name: Detect.

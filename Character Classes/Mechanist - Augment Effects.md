@@ -1,8 +1,8 @@
 This section lists the effects available for mechanists to learn and use with their Augment feature. Each option lists the type of item required for the effect to function and provides a description of how the effect works. Any effects that require an action to activate their properties can be activated with the Use an Object action.
 
 Some effects require you to make an attack roll or require your target to make a save. The attack bonus and save DC for these is calculated as follows:  
-$\quad$**Augment save DC** = 8 + your proficiency bonus (PB) + your Intelligence (INT) modifier  
-$\quad$**Augment attack modifier** = your proficiency bonus (PB) + your Intelligence (INT) modifier
+* **Augment save DC** = 8 + your proficiency bonus (PB) + your Intelligence (INT) modifier  
+* **Augment attack modifier** = your proficiency bonus (PB) + your Intelligence (INT) modifier
 # Adhesive
 *Item Requirement: Large or Smaller Equipment or Object that Isn’t Being Worn or Held*  
 You imbue an item with the ability to stick to surfaces. While the item is within 30 feet of you, you can use an action to speak a command word and affix the item to a solid surface it is touching. The chosen surface can’t be part of a creature.

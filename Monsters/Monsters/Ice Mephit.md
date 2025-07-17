@@ -16,6 +16,8 @@ bonus_actions:
 traits:
   - name: Death Burst.
     desc: "When the mephit dies, it explodes in a burst of viscous ice. Each creature within 5 feet of it must succeed on a DC 11 DEX save or be [[../../Conditions/Restrained|restrained]] by ice for 1 minute. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a DC 11 STR check. The ice melts immediately if the restrained creature takes fire damage, freeing the creature."
+  - name: Elemental Nature.
+    desc: The mephit doesn’t require air, food, drink, or sleep.
   - name: False Appearance.
     desc: "While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice."
 stealth: 14

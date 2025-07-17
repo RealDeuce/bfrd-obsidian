@@ -13,14 +13,14 @@ Your experience with armor allows you to weather mighty onslaughts. While you ar
 *Prerequisite: Proficiency with Light or Medium Armor*  
 You’ve trained to improve your use of armor. You gain these benefits:
 * If you are proficient with light armor, you gain proficiency with medium armor. If you are proficient with medium armor, you gain proficiency with heavy armor and shields.
-* If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you instead roll normally and can’t have advantage or disadvantage on the check.
+* If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you don’t have disadvantage on the check from wearing the armor, though you may still have disadvantage from other sources.
 * You can add up to +3 (instead of +2) to your AC based on your DEX while wearing medium armor.
 # Combat Conditioning
 You’ve endured extensive training to withstand the rigors of combat. You gain these benefits:
 * Your hit point maximum increases by 2 for each character level you have. Each time you gain a level after taking this talent, your hit point maximum increases by 2.
 * When you roll hit dice to recover hit points, treat any roll lower than your current PB as though it were equal to your PB.
 # Furious Charge
-You’ve learned to press every advantage and hammer into enemies. Each time you move 20 feet in a straight line toward a creature and hit it with a melee weapon attack or an unarmed strike, the attack gains your choice of two of the following benefits:
+You’ve learned to press every advantage and hammer into enemies. Each time you move 20 feet in a straight line toward a creature and hit it with a melee weapon attack or an unarmed strike before the start of your next turn, the attack gains your choice of two of the following benefits:
 * The attack deals additional damage of your weapon’s damage type equal to your PB.
 * If the target is one size larger than you or smaller, it is pushed 10 feet directly away from you.
 * The target must succeed on a STR save or be knocked prone. The save DC equals 8 + your PB + your STR modifier.
@@ -31,7 +31,7 @@ To gain any of these benefits, you must be wielding a melee weapon with which yo
 You mastered techniques that allow you to efficiently fight barehanded. You gain these benefits:
 * The damage of your unarmed strikes increases from 1 + STR modifier to 1d6 + STR modifier.
 * You gain proficiency with improvised weapons. While wielding an improvised weapon with one hand, the weapon deals a minimum of 1d8 + STR modifier damage. While wielding an improvised weapon with two hands, the weapon deals a minimum of 1d10 + STR modifier damage.
-* You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappled with or restrained by a creature, that creature takes bludgeoning damage equal to your STR modifier.
+* You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappling or being grappled by a creature or start your turn restrained by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.
 # Heavy Weapon Mastery
 *Prerequisite: Character 4th Level or Higher*  
 You have great skill with two-handed weapons. While wielding a melee weapon with the Heavy property in two hands, you gain these benefits:

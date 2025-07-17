@@ -5,7 +5,7 @@ This staff can be wielded as a magic quarterstaff that grants a +2 bonus to atta
 
 The staff has 10 charges. The staff has the following additional properties:
 
-***Spells.*** You can use an action to expend 1 or more of the staff ’s charges to cast one of the following spells from it, using your spell save DC: *[[../../Spellcasting/Spells/Animal Friendship|animal friendship]]* (1 charge), *[[../../Spellcasting/Rituals/Awaken|awaken]]* (5 charges), *[[../../Spellcasting/Spells/Barkskin|barkskin]]* (2 charges), *[[../../Spellcasting/Spells/Locate Animals or Plants|locate animals or plants]]* (2 charges), [[../../Spellcasting/Spells/Speak with Animals|speak with animals]]* (1 charge), *[[../../Spellcasting/Spells/Speak with Plants|speak with plants]]* (3 charges), or *[[../../Spellcasting/Spells/Wall of Thorns|wall of thorns]]* (6 charges).
+***Spells.*** You can use an action to expend 1 or more of the staff ’s charges to cast one of the following spells from it, using your spell save DC: *[[../../Spellcasting/Spells/Animal Friendship|animal friendship]]* (1 charge), *[[../../Spellcasting/Rituals/Awaken|awaken]]* (5 charges), *[[../../Spellcasting/Spells/Barkskin|barkskin]]* (2 charges), *[[../../Spellcasting/Rituals/wildsense|wildsense]]* (2 charges), [[../../Spellcasting/Spells/Speak with Animals|speak with animals]]* (1 charge), *[[../../Spellcasting/Spells/Speak with Plants|speak with plants]]* (3 charges), or *[[../../Spellcasting/Spells/Wall of Thorns|wall of thorns]]* (6 charges).
 
 You can also use an action to cast the *[[../../Spellcasting/Spells/Pass Without Trace|pass without trace]]* spell from the staff without expending any charges.
 

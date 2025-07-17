@@ -1,14 +1,14 @@
 As a bard, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d8 per bard level  
-**Hit Points at 1st Level:** 8 + your CON modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per bard level after 1st
+* **Hit Dice:** 1d8 per bard level
+* **Hit Points at 1st Level:** 8 + your CON modifier
+* **Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per bard level after 1st
 # Proficiencies
-**Armor:** Light armor  
-**Weapons:** Simple weapons, martial weapons with the Finesse property  
-**Tools:** One type of musical instrument and two other tools your choice  
-**Saves:** DEX, CHA  
-**Skills:** Any three skills of your choice
+* **Armor:** Light armor  
+* **Weapons:** Simple weapons, martial weapons with the Finesse property
+* **Tools:** One type of musical instrument and two other tools your choice
+* **Saves:** DEX, CHA
+* **Skills:** Any three skills of your choice
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a rapier or (b) any simple weapon
@@ -81,8 +81,8 @@ The Spells Known column of the **Bard Progression** table shows when you learn a
 In addition, when you gain a level of bard, you can choose one Arcane spell you know and replace it with another spell of your choice from the Arcane spell list. The replacement spell must be of a circle for which you have Arcane spell slots.
 ## Spellcasting Ability
 Charisma (CHA) is your spellcasting ability. Your CHA modifier determines the save DC or the attack modifier for certain spells you cast:  
-$\quad$**Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
-$\quad$**Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
+* **Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
+* **Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
 ## Rituals
 You can also cast a type of long-form spell called a ritual. Rituals don’t count against your known spell total, and they don’t use up spell slots.
 
@@ -97,7 +97,7 @@ Once within the next 10 minutes, the creature can roll that die and add the numb
 
 You can use this feature a number of times equal to your CHA modifier. You regain any expended uses when you finish a long rest.
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, d10 at 10th, and d12 at 14th.
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, d10 at 9th, and d12 at 14th.
 # Expertise
 *2nd and 6th-Level Bard Feature*  
 Choose two of your skill proficiencies, or one skill proficiency and one tool proficiency. Double your PB for any ability check you make that uses either of the chosen proficiencies.
@@ -113,7 +113,7 @@ Your performance ends early if you become incapacitated, silenced, use an action
 
 You can use your Bardic Performance feature to start a new performance a number of times equal to your PB, regaining all expended uses when you finish a long rest.
 ## Bardic Performance: Celebrate Life
-At 2nd level, while your Bardic Performance feature is active, allies within range can choose to expend one of their hit dice at the start of their turn. When they do so, they roll the expended die and recover a number of hit points equal to the result + your CHA modifier.
+At 2nd level, while your Bardic Performance feature is active, allies within range can choose to expend one of their hit dice at the start of their turn. When they do so, they roll the expended die and recover a number of hit points equal to number rolled + your CHA modifier.
 
 In addition, allies within range have advantage on death saves, though they don’t need to see or hear you to receive this benefit.
 ## Bardic Performance: Cutting Words
@@ -145,7 +145,7 @@ You learn two additional spells from any source at 13th level and again at 18th 
 *10th-Level Bard Feature*  
 Your commitment to the bard’s path grants you a powerful new ability. Choose one of the following heroic boons:
 * **Persistent Inspiration.** When a creature adds one of your Bardic Inspiration dice to an ability check, attack roll, or save, and the roll still fails, the die isn’t lost and can be used again.
-* **Valiant Inspiration.** When a creature with one of your Bardic Inspiration dice successfully deals damage with an attack, the creature can expend and roll the die to deal additional damage equal to the result. The extra damage is of the same type as that of the triggering attack (though the attacker chooses which type if there are more than one). Alternatively, when a creature with one of your Bardic Inspiration dice takes damage, the creature can use its reaction to expend and roll the die to reduce the amount of damage taken by an amount equal to the result + your CHA modifier.
+* **Valiant Inspiration.** When a creature with one of your Bardic Inspiration dice successfully deals damage with an attack, the creature can expend and roll the die to deal additional damage equal to the number rolled. The extra damage is of the same type as that of the triggering attack (though the attacker chooses which type if there are more than one). Alternatively, when a creature with one of your Bardic Inspiration dice takes damage, the creature can use its reaction to expend and roll the die to reduce the amount of damage taken by an amount equal to the number rolled + your CHA modifier.
 # Grand Performance
 *17th-Level Bard Feature*  
 Your Bardic Performance feature now affects creatures within 60 feet of you that can hear or see you.

@@ -1,14 +1,14 @@
 As a monk, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d8 per monk level
-**Hit Points at 1st Level:** 8 + your CON modifier
-**Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per monk level after 1st
+* **Hit Dice:** 1d8 per monk level
+* **Hit Points at 1st Level:** 8 + your CON modifier
+* **Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per monk level after 1st
 # Proficiencies
-**Armor:** None
-**Weapons:** Simple weapons, shortswords
-**Tools:** One of your choice
-**Saves:** STR, DEX
-**Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+* **Armor:** None
+* **Weapons:** Simple weapons, shortswords
+* **Tools:** One of your choice
+* **Saves:** STR, DEX
+* **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) any simple weapon
@@ -56,7 +56,7 @@ You can spend these points to fuel various techniques. You start knowing three t
 You recover expended technique points when you finish a short or long rest. You must spend at least 30 minutes of the rest meditating to regain your technique points.
 
 Some of your techniques require your target to make a save to resist the technique’s effects. The save DC is calculated as follows:  
-$\quad$**Technique save DC** = 8 + your proficiency bonus (PB) + your WIS modifier
+* **Technique save DC** = 8 + your proficiency bonus (PB) + your WIS modifier
 ## Flurry of Blows
 Immediately after you use an action on your turn, you can spend 1 technique point to make two unarmed strikes or make one attack with a monk weapon as a bonus action.
 ## Patient Defense

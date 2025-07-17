@@ -40,6 +40,8 @@ The damage types are provided here, with examples to help a GM assign a damage t
 
 ***Poison.*** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
 
+***Psychic.*** Mental abilities or abilities that assault the mind, such as an aboleth’s Psychic Bolt or a ghost’s Horrify, deal psychic damage.
+
 ***Radiant.*** Radiant damage, dealt by a cleric’s *flame strike* spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 ***Slashing.*** Swords, axes, and claws deal slashing damage.

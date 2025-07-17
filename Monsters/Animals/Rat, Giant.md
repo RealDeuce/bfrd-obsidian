@@ -9,7 +9,7 @@ traits:
   - name: Accustomed to Filth.
     desc: "The rat has advantage on saves against contracting diseases."
   - name: Heightened Smell.
-    desc: "The rat’s Perception is 15 while perceiving by smell."
+    desc: "The rat’s Perception is 15 when perceiving by smell."
   - name: Pack Tactics.
     desc: "The rat has advantage on attack rolls against a creature if at least one of the rat’s allies is within 5 feet of the creature and the ally isn’t incapacitated."
 senses: darkvision 60 ft.

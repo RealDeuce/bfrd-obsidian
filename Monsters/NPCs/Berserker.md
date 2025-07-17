@@ -18,7 +18,7 @@ traits:
   - name: Reckless.
     desc: "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn."
   - name: Stalwart.
-    desc: "If the berserker starts its turn afflicted by an ongoing effect that allows for a repeated save to end the effect, such as the *[[../Spells/Hold|hold]]* spell or the poison from an ettercap’s Bite, the gladiator can make the save at the start of the turn instead of the end and has advantage on the save."
+    desc: "If the berserker starts its turn afflicted by an ongoing effect that allows for a repeated save to end the effect, such as the *[[../Spells/Hold|hold]]* spell or the poison from an ettercap’s Bite, the berserker can make the save at the start of the turn instead of the end and has advantage on the save."
 stealth: 11
 cr: 2
 languages: any one language (usually Common)

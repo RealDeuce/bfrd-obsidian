@@ -32,7 +32,7 @@ cr: 1
 perception: 11
 immune: Devilish Resilience
 senses: darkvision 120 ft.
-languages: Infernal, Common
+languages: Common, Infernal
 ```
 
 #cr1 #devil #fiend #outsider #tiny

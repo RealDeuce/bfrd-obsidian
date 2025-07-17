@@ -34,6 +34,8 @@ Wearing armor increases your armor class (AC), which in turn increases your chan
 A typical PC who isn’t wearing armor has an AC of 10 + their DEX modifier.
 
 When you wear armor, use the AC equation listed with the type of armor you are wearing instead of the typical 10 + DEX modifier equation. See the **Armor** table for an armor type’s AC equation as well as specific bonuses or limitations it imposes when calculating AC.
+
+If you have armor from another source, such as the Sturdy Natural Adaptation trait from the beastkin lineage or the Unarmored Defense trait from the monk, the armor values aren’t additive. Each of these features gives you a new way to calculate your armor, just like putting on a suit of scale mail armor changes your calculation from the base 10 + DEX modifier to 14 + DEX modifier (max 2). This makes the different calculations incompatible with each other, either requiring you to choose one or making the highest calculation override the others.
 # Armor Types & Proficiencies
 Armor types are categorized into three weights: light, medium, or heavy. You need proficiency in a weight of armor to use it well. For instance, a character with proficiency in light armor can wear any type of armor listed as light armor without penalty.
 

@@ -13,7 +13,7 @@ traits:
   - name: Magic Resistance.
     desc: "The mage has advantage on saves against spells and other magical effects."
 stealth: 12
-hp: 140
+hp: 70
 type: Humanoid
 speed: 30 ft.
 ac: 10 (13 with mage armor)

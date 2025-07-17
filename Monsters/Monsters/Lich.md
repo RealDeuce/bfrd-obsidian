@@ -3,7 +3,7 @@
 layout: Basic ToV Layout
 reactions:
   - name: Absorb Spell.
-    desc: "When a creature the lich can see within 60 feet of it casts a spell, the lich can absorb the spell’s energy, countering it. This works like the *[[../Spells/Counterspell|counterspell]]* spell, except the lich must always make a spellcasting ability check, no matter the spell's circle. Its ability check for this is +12. If it successfully counters the spell, the lich gains 5 temporary HP for each level of the spell."
+    desc: "When a creature the lich can see within 60 feet of it casts a spell, the lich can absorb the spell’s energy, countering it. This works like the *[[../Spells/Counterspell|counterspell]]* spell, except the lich must always make a spellcasting ability check, no matter the spell's circle. Its ability check for this is +12. If it successfully counters the spell, the lich gains 5 temporary HP for each circle of the spell."
 cr: 21
 legendary_description: The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.
 perception: 19

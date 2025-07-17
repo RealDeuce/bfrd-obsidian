@@ -22,7 +22,7 @@ actions:
   - name: Multiattack (Humanoid or Hybrid Form Only).
     desc: "The wererat makes three Claw or Shortsword attacks, or it makes three Hand Crossbow attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form."
   - name: Bite (Rat or Hybrid Form Only).
-    desc: "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.  *Hit:* 7 (2d4 + 2) piercing damage. If the target is a Humanoid, it must succeed on a DC 11 CON save or be cursed with the wererat lycanthropy curse (see Curse of Lycanthropy sidebar)."
+    desc: "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.  *Hit:* 7 (2d4 + 2) piercing damage. If the target is a Humanoid, it must succeed on a DC 11 CON save or be cursed with the wererat [[../../Running the Game/Environmental Hazard Descriptions/Curse Descriptions#Curse of Lycanthropy|lycanthropy curse]]."
   - name: Claw (Rat or Hybrid Form Only).
     desc: "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.  *Hit:* 7 (2d4 + 2) slashing damage."
   - name: Shortsword (Humanoid or Hybrid Form Only).

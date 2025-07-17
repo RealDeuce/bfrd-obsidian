@@ -1,10 +1,10 @@
 When you drop to 0 HP, you either die outright or fall unconscious and are dying. These rules are primarily used during initiative in an encounter. In rare instances, character death can occur outside of an encounter, especially through dangers covered in the Other Forms of Harm section. The GM decides how these rules function in deadly situations that occur outside of initiative.
 # Death
-Massive damage can kill you instantly. When damage reduces you to 0 HP and more damage remains to be taken, keep track of it. Your character is **dead** when you are at 0 HP and have either failed three death saves or taken as much damage as your hit point maximum while at 0 HP. Magical healing or a WIS (Medicine) check can’t help you at this point. Only a spell like *revivify* or *resurrection* can bring the character back to life.
+Massive damage can kill you instantly. When damage reduces you to 0 HP and more damage remains to be taken from that effect, calculate how much damage would remain to be taken, as that roll-over damage might kill you outright. Your character is **dead** when you are at 0 HP and have either failed three death saves or taken as much damage as your hit point maximum while at 0 HP. Magical healing or a WIS (Medicine) check can’t help you at this point. Only a spell like *revivify* or *resurrection* can bring the character back to life.
 
 For example, a cleric with a hit point maximum of 12 currently has 6 HP. If she takes 18 damage from an attack, she is reduced to 0 HP, and 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies.
 ## Death Saves
-When you start your turn with 0 HP, you must make a special save, called a **death save**, to determine whether you creep closer to death or cling to life. Unlike other saves, a death save isn’t tied to any ability score.
+When you start your turn with 0 HP, you must make a special save, called a **death save**, to determine whether you creep closer to death or cling to life. Unlike other saves, a death save isn’t tied to any ability score. Like with other saves, Luck can be applied to death saves.
 
 Roll a d20. If the roll is 10 or higher, you succeed on the death save. Otherwise, you fail. An individual success or failure has no immediate effect. However, on your third success, you become stable. On your third failure, you die.
 

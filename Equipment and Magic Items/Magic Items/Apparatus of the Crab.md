@@ -1,9 +1,13 @@
 *Wondrous Item, Legendary*  
 *50,000 gp*
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster. See the **Levers of the Apparatus** table for what each lever does.
+This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
-The apparatus of the crab is a Large object with AC 20 and 200 HP.
+The *apparatus of the crab* is a Large object with AC 20 and 200 HP, it is immune to poison damage and psychic damage, and it has a walking speed of 30 feet and swimming speed of 30 feet, while its legs and tail are extended.
+
+The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the apparatus takes 2d6 bludgeoning damage per minute from pressure. To be used as a vehicle, the apparatus requires one pilot. While the apparatus’s hatch is closed, the compartment is airtight and watertight. The sealed compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
+
+A creature in the compartment can use an action to move as many as two of the apparatus’s levers up or down. After each use, a lever goes back to its neutral position. See the **Levers of the Apparatus** table for what each lever does.
 ###### Levers on the Apparatus
 | Lever | Up                                                                                                                               | Down                                                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |

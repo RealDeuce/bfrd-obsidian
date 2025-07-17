@@ -27,6 +27,7 @@ traits:
   - name: Monstrosity Resilience.
     desc: "The sphinx is resistant to exhaustion and to the frightened condition."
 type: Monstrosity
+subtype: Outsider
 hp: 284
 name: Androsphinx
 actions:

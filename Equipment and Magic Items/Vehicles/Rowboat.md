@@ -12,7 +12,7 @@ immune: Vehicle Resilience
 initiative: 8
 crew: 2
 passengers: 2
-cargo_capacity: 500 lbs.
+cargo_capacity: 500 lb.
 stats: ["+0", "−1", "+0", "—", "—", "—"]
 traits:
   - name: Lightweight.

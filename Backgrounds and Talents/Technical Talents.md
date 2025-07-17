@@ -8,7 +8,7 @@ You have exceptional situational awareness. When you select this talent, you gai
 You trained in the art of espionage. You gain these benefits:
 * You can attempt to hide while in three-quarters cover or while lightly obscured.
 * Creatures that rely on darkvision can’t see you while you remain motionless in dim light or darkness. This effect ends if you move, take an action or bonus action, or use a reaction while in the creature’s line of sight.
-* You don’t have disadvantage on attack rolls and WIS (Perception) checks against targets in dim light.
+* You don’t have disadvantage on WIS (Perception) checks against targets in dim light.
 * If you make a ranged attack against a creature or if a creature spots you while you are hidden, you can use your reaction to make a DEX (Stealth) check at disadvantage opposed by the creature’s Perception. On a success, you remain hidden and the creature is unaware of your position. Once used on a creature, the target can’t be affected by this feature again for 24 hours.
 # Dungeoneer
 You’ve studied—or at least survived—your share of hazards and learned a thing or two about sniffing out secrets. You gain these benefits:
@@ -49,7 +49,7 @@ You have a keen eye for detail. You gain these benefits:
 You honed your skills to work in a particular profession. When you select this talent, decide what that profession is and gain these benefits:
 * Gain proficiency with one skill and a tool or vehicle relevant to your chosen profession. Alternatively, gain proficiency with any combination of two tools or vehicles relevant to your chosen profession.
 * Double your PB for one skill you are proficient with. That skill must not already double your PB.
-* You have advantage on checks you make where both a tool and skill you are proficient with would apply to the check. For example, when identifying a plant, if you are proficient with the herbalism kit and the Nature skill, your check would have advantage.
+* You have advantage on checks you make where both a tool and skill you are proficient with would apply to the check. For example, when identifying a plant, if you are proficient with the herbalism tools and the Nature skill, your check would have advantage.
 
 You can select this talent multiple times, but you must choose a different profession each time.
 # Touch of Luck

@@ -9,7 +9,7 @@ traits:
   - name: Amphibious.
     desc: "The dragon can breathe air and water."
   - name: Hallucinogenic Gas.
-    desc: "After the green dragon exhales its Poison Breath, wisps of poisonous gas laced with the alchemical taint that permeates the dragon’s body linger around it. While the dragon’s Poison Breath is unavailable, each creature that starts its turn within 10 feet of the dragon must succeed on a DC 14 WIS save or be terrified, as the gas causes the creature to experience frightful hallucinations. A terrified creature is [[../../Conditions/Frightened|frightened]], and its speed is reduced to 0."
+    desc: "After the green dragon exhales its Poison Breath, wisps of poisonous gas laced with the alchemical taint that permeates the dragon’s body linger around it. While the dragon’s Poison Breath is unavailable, each creature that starts its turn within 10 feet of the dragon must succeed on a DC 14 WIS save or be terrified until the start of its next turn, as the gas causes the creature to experience frightful hallucinations. A terrified creature is [[../../Conditions/Frightened|frightened]], and its speed is reduced to 0."
 stealth: 14
 perception: 17
 hp: 148

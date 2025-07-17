@@ -18,7 +18,7 @@ name: Mechanist
 subtype: Any Lineage
 bonus_actions:
   - name: Quick Creation (Recharge 4–6).
-    desc: "The mechanist cobbles together various machine parts it is carrying and creates a Tiny Construct. The Construct obeys the mechanist’s spoken commands. It uses the statistics of a **[[Solodron Mechadron|solodron]]** but it isn’t a mechadron or part of the Plan. The mechanist can have up to two such Constructs under its control at one time. Each Construct remains for 1 minute, until the mechanist dies, or until the mechanist uses this bonus action again to dismiss one or both of them."
+    desc: "The mechanist cobbles together various machine parts it is carrying and creates a Tiny Construct. The Construct obeys the mechanist’s spoken commands. It uses the statistics of a **[[Solodron Mechadron|solodron]]** (or a similar Tiny Construct of CR 1/4 or lower) but it isn’t a mechadron or part of the Plan. The mechanist can have up to two such Constructs under its control at one time. Each Construct remains for 1 minute, until the mechanist dies, or until the mechanist uses this bonus action again to dismiss one or both of them."
 traits:
   - name: Tools of the Trade.
     desc: "The mechanist is proficient with tinker tools and doubles its proficiency bonus for any ability check it makes with tinker tools."

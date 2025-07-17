@@ -1,42 +1,42 @@
 As a barbarian, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d12 per barbarian level  
-**Hit Points at 1st Level:** 12 + your CON modifier  
-**Hit Points at Higher Levels:** 1d12 (or 7) + your CON modifier per barbarian level after 1st  
+* **Hit Dice:** 1d12 per barbarian level
+* **Hit Points at 1st Level:** 12 + your CON modifier
+* **Hit Points at Higher Levels:** 1d12 (or 7) + your CON modifier per barbarian level after 1st
 # Proficiencies
-**Armor:** Light armor, medium armor, shields  
-**Weapons:** Simple weapons, martial weapons  
-**Tools:** Herbalism tools  
-**Saves:** STR, CON  
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+* **Armor:** Light armor, medium armor, shields
+* **Weapons:** Simple weapons, martial weapons
+* **Tools:** Herbalism tools
+* **Saves:** STR, CON
+* **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a greataxe or (b) any martial melee weapon
 * (a) two handaxes or (b) any simple weapon
 * An explorer’s pack and four javelins
 ###### Barbarian Progression
-| Level | PB  | Rages | Rage Damage | Features |
-| ----- | --- | ----- | ----------- | -------- |
-| 1st | +2 | 2 | +2 | Rage, Unarmored Defense |
-| 2nd | +2 | 2 | +2 | Danger Sense, Reckless Attack |
-| 3rd | +2 | 3 | +2 | Barbarian Subclass |
-| 4th | +2 | 3 | +2 | Improvement |
-| 5th | +3 | 3 | +2 | Fast Movement, Multiattack (2/Attack Action) |
-| 6th | +3 | 4 | +2 | Feral Instinct |
-| 7th | +3 | 4 | +2 | Subclass Feature |
-| 8th | +3 | 4 | +2 | Improvement |
-| 9th | +4 | 4 | +3 | Brutal Critical (1 Die) |
-| 10th | +4 | 4 | +3 | Heroic Boon |
-| 11th | +4 | 4 | +3 | Subclass Feature |
-| 12th | +4 | 5 | +3 | Improvement |
-| 13th | +5 | 5 | +3 | Brutal Critical (2 Dice) |
-| 14th | +5 | 5 | +3 | Persistent Rage |
-| 15th | +5 | 5 | +3 | Subclass Feature |
-| 16th | +5 | 5 | +4 | Improvement |
-| 17th | +6 | 6 | +4 | Brutal Critical (3 Dice) |
-| 18th | +6 | 6 | +4 | Unyielding Might |
-| 19th | +6 | 6 | +4 | Improvement |
-| 20th | +6 | Unlimited | +5 | Epic Boon |
+| Level | PB  | Rages     | Rage Damage | Features                                     |
+| ----- | --- | --------- | ----------- | -------------------------------------------- |
+| 1st   | +2  | 2         | +2          | Rage, Unarmored Defense                      |
+| 2nd   | +2  | 2         | +2          | Danger Sense, Reckless Attack                |
+| 3rd   | +2  | 3         | +2          | Barbarian Subclass                           |
+| 4th   | +2  | 3         | +2          | Improvement                                  |
+| 5th   | +3  | 3         | +2          | Fast Movement, Multiattack (2/Attack Action) |
+| 6th   | +3  | 4         | +2          | Feral Instinct                               |
+| 7th   | +3  | 4         | +2          | Subclass Feature                             |
+| 8th   | +3  | 4         | +2          | Improvement                                  |
+| 9th   | +4  | 4         | +3          | Brutal Critical (1 Die)                      |
+| 10th  | +4  | 4         | +3          | Heroic Boon                                  |
+| 11th  | +4  | 4         | +3          | Subclass Feature                             |
+| 12th  | +4  | 5         | +3          | Improvement                                  |
+| 13th  | +5  | 5         | +3          | Brutal Critical (2 Dice)                     |
+| 14th  | +5  | 5         | +3          | Relentless Rage                              |
+| 15th  | +5  | 5         | +3          | Subclass Feature                             |
+| 16th  | +5  | 5         | +4          | Improvement                                  |
+| 17th  | +6  | 6         | +4          | Brutal Critical (3 Dice)                     |
+| 18th  | +6  | 6         | +4          | Unyielding Might                             |
+| 19th  | +6  | 6         | +4          | Improvement                                  |
+| 20th  | +6  | Unlimited | +5          | Epic Boon                                    |
 # Rage
 *1st-Level Barbarian Feature*  
 In battle, you fight with primal ferocity. On your turn, you can rage as a bonus action.

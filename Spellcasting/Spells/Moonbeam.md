@@ -10,6 +10,6 @@ A creature with the Shapechanger tag makes this save with disadvantage. If it fa
 
 On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction.
 
-***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 3rd.
+***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 2rd.
 
 #2nd-circle #action #concentration #evocation #primordial #somatic #verbal

@@ -50,6 +50,8 @@ You choose when to take a bonus action during your turn, unless the bonus action
 Certain special abilities, spells, and situations allow you to take a reaction. A **reaction** is an instant response to a trigger (specified in the reaction’s description), which can occur on your turn or on someone else’s. The opportunity attack is the most common type of reaction.
 
 You can take only one reaction until the start of your next turn. If a reaction interrupts another creature’s turn, that creature can continue its turn after the effects of the reaction are resolved.
+
+If a creature is able to use more than one reaction in a turn, it can still use only one reaction per trigger. For example, if a fighter moves away from a hydra with five heads, provoking an opportunity attack, the hydra gets only one opportunity attack against that fighter, not five opportunity attacks. If a fighter, barbarian, and wizard move away from a hydra—and the hydra has at least three heads—it can make one opportunity attack against each one of them.
 ### Other Activity on Your Turn
 You can accomplish a variety of minor things during your turn that don’t interfere with your normal action and movement. Here are the kinds of things you might be able to accomplish in this way:
 * You can communicate at any time (even on someone else’s turn) through brief talking and gestures.
@@ -171,7 +173,7 @@ Combatants can try to escape notice by hiding, casting the *invisibility* spell,
 
 When you attack a target you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing at the target’s location or targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, though the GM might just say that you missed, not whether you guessed the target’s location correctly.
 
-When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
+When a creature you can see can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 ## 3. Make an Attack Roll
 When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the check result equals or exceeds the target’s Armor Class (AC), the attack hits.
 ### Critical Miss or Critical Hit
@@ -263,6 +265,6 @@ Fighting underwater is a challenging environment with special rules to represent
 
 When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on attack rolls unless the weapon is a dagger, javelin, shortsword, spear, or trident.
 
-A **ranged weapon attack** can’t hit a target beyond its normal range. The attack roll has disadvantage even within normal range unless the weapon is a crossbow, net, or a weapon that is thrown like a javelin (such as a spear, trident, or dart).
+A **ranged weapon attack** can’t hit a target beyond its normal range. The attack roll has disadvantage even within normal range unless the weapon is a crossbow or a weapon that is thrown like a javelin (such as a trident, or dart).
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.

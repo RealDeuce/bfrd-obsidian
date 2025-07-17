@@ -25,6 +25,8 @@ stealth: 12
 traits:
   - name: Death Burst.
     desc: "When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must succeed on a DC 11 DEX save or be pushed up to 10 feet away from the mephit, knocked [[../../Conditions/Prone|prone]], and catch on fire. Until a creature takes an action to douse the fire, the creature on fire takes 3 (1d6) fire damage at the start of each of its turns."
+  - name: Elemental Nature.
+    desc: The mephit doesn’t require air, food, drink, or sleep.
   - name: False Appearance.
     desc: "While the mephit remains motionless, it is indistinguishable from an ordinary mound of molten rock."
 bonus_actions:

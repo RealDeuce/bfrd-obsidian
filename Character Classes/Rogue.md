@@ -1,14 +1,14 @@
 As a rogue, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d8 per rogue level
-**Hit Points at 1st Level:** 8 + your CON modifier
-**Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per rogue level after 1st
+* **Hit Dice:** 1d8 per rogue level
+* **Hit Points at 1st Level:** 8 + your CON modifier
+* **Hit Points at Higher Levels:** 1d8 (or 5) + your CON modifier per rogue level after 1st
 # Proficiencies
-**Armor:** Light armor
-**Weapons:** Simple weapons, martial weapons with the Finesse property
-**Tools:** Thieves’ tools
-**Saves:** DEX, INT
-**Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+* **Armor:** Light armor
+* **Weapons:** Simple weapons, martial weapons with the Finesse property
+* **Tools:** Thieves’ tools
+* **Saves:** DEX, INT
+* **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a rapier or (b) a shortsword
@@ -45,7 +45,7 @@ Choose two of your skill proficiencies, or one skill proficiency and one tool pr
 At 6th level, choose two more of your proficiencies (any combination of skills or tools) to gain this benefit.
 # Sneak Attack
 *1st-Level Rogue Feature*  
-You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The weapon you use must have the Finesse property or be a ranged weapon.
+You know how to strike subtly and exploit a foe’s distraction. Once per your turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The weapon you use must have the Finesse property or be a ranged weapon.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 

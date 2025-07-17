@@ -1,14 +1,14 @@
 As a sorcerer, you have the following class features.
 # Hit Points
-**Hit Dice:** 1d6 per sorcerer level
-**Hit Points at 1st Level:** 6 + your CON modifier
-**Hit Points at Higher Levels:** 1d6 (or 4) + your CON modifier per sorcerer level after 1st
+* **Hit Dice:** 1d6 per sorcerer level
+* **Hit Points at 1st Level:** 6 + your CON modifier
+* **Hit Points at Higher Levels:** 1d6 (or 4) + your CON modifier per sorcerer level after 1st
 # Proficiencies
-**Armor:** None  
-**Weapons:** Simple weapons  
-**Tools:** None  
-**Saves:** CON, CHA  
-**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+* **Armor:** None
+* **Weapons:** Simple weapons
+* **Tools:** None
+* **Saves:** CON, CHA
+* **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 # Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
@@ -100,8 +100,8 @@ The Spells Known column of the **Sorcerer Progression** table shows when you lea
 In addition, when you gain a level of sorcerer, you can choose one Arcane spell you know and replace it with another spell of your choice from the Arcane spell list. The replacement spell must be of a circle for which you have Arcane spell slots.
 ## Spellcasting Ability
 Charisma (CHA) is your spellcasting ability. Your CHA modifier determines the save DC or the attack modifier for certain spells you cast:  
-$\quad$**Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
-$\quad$**Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
+* **Spell save DC** = 8 + your proficiency bonus (PB) + your CHA modifier  
+* **Spell attack modifier** = your proficiency bonus (PB) + your CHA modifier
 ## Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your Arcane spells.
 # Metamagic
@@ -123,7 +123,7 @@ When you roll damage for a spell, you can spend 1 sorcery point to reroll a numb
 You can use the Empowered Spell option even if you have already used a different Metamagic option during the casting of the spell.
 ## Enlarged Spell
 When you cast a spell with a range of self that affects an area (not a specific target), you can spend 3 sorcery points to increase the size of the spell’s area of effect in one of the following ways (depending on the shape of the spell effect):
-* Circle, Cylinder, or Sphere. The radius of circle, sphere, or circular base of the cylinder increases by 5 feet. For example, the *darkness* spell could be altered to affect a 20-foot-radius sphere (instead of a 15-foot-radius sphere).
+* Circle, Cylinder, or Sphere. The radius of circle, sphere, or circular base of the cylinder increases by 5 feet. For example, the *darkness* spell could be altered to affect a 15-foot-radius sphere (instead of a 10-foot-radius sphere).
 * Cone. The cone’s size increases by 15 feet. For example, the *burning hands* spell could be altered to affect a 30-foot cone (instead of a 15-foot cone).
 * Cube. The length of each cube face increases by 5 feet. For example, the *thunderwave* spell could be altered to affect a 20-foot cube (instead of a 15-foot cube).
 * Line. The length of the line increases by 15 feet. For example, the *lightning bolt* spell could be altered to affect a 115-foot line (instead of a 100-foot line).

@@ -11,7 +11,7 @@ traits:
   - name: Accustomed to Filth.
     desc: "The rat has advantage on saves against contracting diseases."
   - name: Heightened Smell.
-    desc: "The rat’s Perception is 15 while perceiving by smell."
+    desc: "The rat’s Perception is 15 when perceiving by smell."
 stealth: 12
 ac: 10
 cr: 0

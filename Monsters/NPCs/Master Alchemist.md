@@ -10,7 +10,7 @@ bonus_actions:
     desc: "The master alchemist drinks one of its brews and gains resistance to acid, cold, fire, or poison damage (the master alchemist’s choice) until the end of its next turn."
 traits:
   - name: Tools of the Trade.
-    desc: "The master alchemist is proficient with alchemist’s supplies and doubles its proficiency bonus for any ability check it makes with alchemist’s supplies."
+    desc: "The master alchemist is proficient with alchemist’s supplies and doubles its proficiency bonus for any ability check it makes with alchemist tools."
 stealth: 14
 ac: 16 (studded leather)
 size: Medium

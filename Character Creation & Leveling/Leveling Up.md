@@ -1,6 +1,8 @@
 Characters start at 1st level and can advance up to 20th level by gaining experience points (XP) during their adventures. By default, PCs start with 0 XP.
 
-When your PC gains a new level, you gain access to the benefits listed in the progression table for your class at the new level. You also gain 1 hit die and more hit points. To calculate these new hit points, roll the new hit die, add your CON modifier to the roll, and add the total to your total hit points. If you don’t want to roll, you can use the average hit die value (listed in each class description) plus your CON modifier.
+When your PC gains a new level, you gain access to the benefits listed in the progression table for your class at the new level. You also gain 1 hit die and more hit points. Regardless of which class you choose when you gain a level, your combined total levels in all classes is known as your character level.
+
+To calculate these new hit points, roll the new hit die, add your CON modifier to the roll, and add the total to your total hit points. If you don’t want to roll, you can use the average hit die value (listed in each class description) plus your CON modifier.
 # Leveling Methods
 ## Awarding XP
 When a GM awards XP, they tally up the challenges that the PCs overcame during the session and tell players the amount at the end. The **Level Advancement** table details the XP you need to advance to new levels. Don’t reset the XP total after each level.
@@ -74,7 +76,29 @@ If you already have the Channel Divinity feature and gain a level in a different
 If you gain the Multiattack feature from more than one class, the features don’t add together to give you more attacks. You gain additional uses only when you reach a class level that explicitly grants them to you, and you don’t add uses from multiple classes together. For example, if you are a 9th-level fighter and 5th-level monk, you can use Multiattack to make three attacks, not five.
 ### Unarmored Defense
 If you already have the Unarmored Defense feature, you can’t gain it again from another class. For example, if you have levels of barbarian and monk, you only get the benefits of the Unarmored Defense feature from whichever class you chose for your first character level.
-
+###### Multiclass Spellcaster: Spell Slots per Spell Circle
+| Character Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | 2 | — | — | — | — | — | — | — | — |
+| 2nd | 3 | — | — | — | — | — | — | — | — |
+| 3rd | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 ### Spellcasting
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules as described in that class.
 
@@ -82,7 +106,7 @@ Your capacity for spellcasting depends partly on your combined levels in all you
 
 Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
 
-**Spell Slots.** Determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your spell slots by consulting the **Multiclass Spellcaster** table.
+**Spell Slots.** Determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin, ranger, and warlock classes, and a third of your level (rounded down) in the class if you have a subclass that gives you spellcasting when that class doesn’t normally have spellcasting, such as the Spell Blade subclass of the fighter. Use this total to determine your spell slots by consulting the **Multiclass Spellcaster** table.
 
 If you have more than one spellcasting class, this table might give you spell slots of a circle that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-circle spells. If a lower-circle spell that you cast, like burning hands, has an enhanced effect when cast using a higher-circle slot, you can use the enhanced effect, even though you don't have spells of that higher circle.
 
