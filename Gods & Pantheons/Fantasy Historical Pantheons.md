@@ -1,0 +1,1 @@
+The Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical Earth religions. Mix and match these deities outside of a historical context to serve your game’s needs.

@@ -1,6 +1,6 @@
 This contains the bits of Black Flag Roleplaying Reference Document I want in Obsidian.
 
-At this point, the only things "missing" are the single subclass per class that the BRFD contains, the "Gods we found on Wikipedia" pages, and the spell lists (since all the spells are tagged, and you can generate these using the find tool)
+At this point, the only things "missing" are the single subclass per class that the BRFD contains, and the spell lists (since all the spells are tagged, and you can generate these using the find tool)
 
 The monsters use the Fantasy Statblocks Obsidian plugin. You will need to import the Basic ToV Layout. Got to Settings -> Community Plugins -> Fantasy Statblocks -> Layouts and press the Import from JSON button. Browse to where this file is, and select `Basic ToV Layout.json` you may need to restart Obsidian for the layout to take effect.
 
